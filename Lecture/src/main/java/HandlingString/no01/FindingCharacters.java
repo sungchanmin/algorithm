@@ -1,4 +1,4 @@
-package 문제01.문자찾기;
+package HandlingString.no01;
 
 import java.util.Scanner;
 
