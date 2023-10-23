@@ -2,7 +2,7 @@ package HandlingString.no08;
 
 import java.util.Scanner;
 
-public class PalindoromeString2 {
+public class PalindromeString2 {
     private static String solution(String str) {
         String alphas = "";
         char[] chars = str.toCharArray();
