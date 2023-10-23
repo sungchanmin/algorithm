@@ -2,7 +2,7 @@ package HandlingString.no07;
 
 import java.util.Scanner;
 
-public class PalindoromeString {
+public class PalindromeString {
     private static String solution(String str) {
         str = str.toLowerCase();
 
