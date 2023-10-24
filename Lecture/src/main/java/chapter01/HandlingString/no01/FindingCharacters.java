@@ -36,7 +36,6 @@ public class FindingCharacters {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
         char c = sc.next().charAt(0);
-
         System.out.println(solution(str, c));
     }
 }
