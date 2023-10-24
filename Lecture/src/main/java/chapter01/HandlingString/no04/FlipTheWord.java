@@ -1,4 +1,4 @@
-package HandlingString.no04;
+package chapter01.HandlingString.no04;
 
 import java.util.Scanner;
 
