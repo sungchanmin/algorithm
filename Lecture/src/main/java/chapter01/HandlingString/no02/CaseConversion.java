@@ -11,6 +11,7 @@ public class CaseConversion {
 
         System.out.println(answer);
     }
+
     public static void solution (String str) {
         String answer = "";
 
