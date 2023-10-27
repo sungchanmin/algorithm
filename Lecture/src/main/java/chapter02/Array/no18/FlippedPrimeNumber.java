@@ -29,11 +29,9 @@ public class FlippedPrimeNumber {
         for(String s : nums) {
             int num = Integer.parseInt(new StringBuilder(s).reverse().toString());
 
-            for(int i : primes) {
-                if(i == num && i != 0 && i != 1) {
-                    if(!answer.equals("")) answer += " " + num;
-                    else answer += num;
-                }
+            if (primes[num] != 0 && num != 1) {
+                if (!answer.equals("")) answer += " " + num;
+                else answer += num;
             }
         }
 
