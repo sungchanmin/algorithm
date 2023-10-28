@@ -11,7 +11,7 @@ public class GridMaxSum {
         for(int i=0; i<n; i++) {
             for(String s : strings[i]) sum[i] += Integer.parseInt(s);
 
-            // 새로 합 구하기
+            // 세로 합 구하기
             for(int j=0; j<n; j++) {
                 sum[n + j] += Integer.parseInt(strings[i][j]);
 
