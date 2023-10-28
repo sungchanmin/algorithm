@@ -4,23 +4,16 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class FindCommonElements {
-    private static String solution(int n, int m, String[] arr1, String[] arr2) {
-        int[] intArr1 = Arrays.stream(arr1).mapToInt(Integer::parseInt).toArray();
-        int[] intArr2 = Arrays.stream(arr2).mapToInt(Integer::parseInt).toArray();
-
-        Arrays.sort((intArr1));
-        Arrays.sort((intArr2));
-
-        return commonElements(intArr1, intArr2);
-    }
-
-    private static String commonElements(int[] arr1, int[] arr2) {
-        String result = "";
+    private static String solution(int n, int m, int[] arr1, int[] arr2) {
+        String answer = "";
         int a = 0, b = 0;
+
+        Arrays.sort((arr1));
+        Arrays.sort((arr2));
 
         while(a < arr1.length && b < arr2.length) {
             if(arr1[a] == arr2[b]) {
-                result += arr1[a] + " ";
+                answer += arr1[a] + " ";
                 a++;
                 b++;
             } else if(arr1[a] > arr2[b]) {
@@ -28,15 +21,24 @@ public class FindCommonElements {
             } else a++;
         }
 
-        return result;
+        return answer;
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = Integer.parseInt(sc.nextLine());
-        String[] arr1 = sc.nextLine().split(" ");
-        int m = Integer.parseInt(sc.nextLine());
-        String[] arr2 = sc.nextLine().split(" ");
+        int n = sc.nextInt();
+        int[] arr1 = new int[n];
+
+        for(int i=0; i<n; i++) {
+            arr1[i] = sc.nextInt();
+        }
+
+        int m = sc.nextInt();
+        int[] arr2 = new int[m];
+
+        for(int i=0; i<m; i++) {
+            arr2[i] = sc.nextInt();
+        }
 
         System.out.println(solution(n, m, arr1, arr2));
     }
