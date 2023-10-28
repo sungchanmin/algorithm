@@ -4,21 +4,12 @@ import java.util.Scanner;
 
 public class ContinuousSubsequence {
     private static int solution(int n, int m, String[] strArr) {
-        int answer = 0, r = 0, l = 0;
+        int answer = 0, sum = 0, r = 0, l = 0;
 
-        while(r < n) {
-            int sum = 0;
-
-            for(int i=l; i<=r; i++) {
-                sum += Integer.parseInt(strArr[i]);
-            }
-
-            if(sum == m) {
-                answer++;
-                r++;
-            }
-            else if(sum < m) r++;
-            else l++;
+        while(r < n && l < n) {
+            if(sum > m) sum -= Integer.parseInt(strArr[l++]);
+            else sum += Integer.parseInt(strArr[r++]);
+            if(sum == m) answer++;
         }
 
         return answer;
