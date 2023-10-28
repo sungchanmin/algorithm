@@ -8,14 +8,10 @@ public class CombiningTwoArrays {
         int a = 0, b = 0;
 
         for(int i=0; i<n+m; i++) {
-            // a, b가 배열 index 내에 속하는지 먼저 판별해야
-            // Out of bounds Exception을 방지할 수 있다.
             if((b >= m) || (a < n && Integer.parseInt(arr1[a]) < Integer.parseInt(arr2[b]))) {
-                answer += arr1[a] + " ";
-                a++;
+                answer += arr1[a++] + " ";
             } else {
-                answer += arr2[b] + " ";
-                b++;
+                answer += arr2[b++] + " ";
             }
         }
 
