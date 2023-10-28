@@ -1,6 +1,5 @@
 package chapter02.Array.no24;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Mentoring {
