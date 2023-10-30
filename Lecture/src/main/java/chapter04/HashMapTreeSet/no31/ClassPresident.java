@@ -29,7 +29,6 @@ public class ClassPresident {
         Scanner sc = new Scanner(System.in);
         int n = Integer.parseInt(sc.nextLine());
         String str = sc.nextLine();
-
         System.out.println(solution(n, str));
     }
 }
