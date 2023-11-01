@@ -13,9 +13,7 @@ public class EmergencyRoom {
             this.warn = warn;
         }
 
-        public int getIndex() {
-            return this.index;
-        }
+        public int getIndex() { return this.index; }
 
         public int getWarn() {
             return  this.warn;
