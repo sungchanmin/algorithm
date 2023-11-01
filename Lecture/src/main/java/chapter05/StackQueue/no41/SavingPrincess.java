@@ -12,10 +12,8 @@ public class SavingPrincess {
 
         while(Q.size() != 1) {
             for(int i=0; i<m; i++) {
-                if(i<m-1) {
-                    Integer p = Q.poll();
-                    Q.add(p);
-                } else Q.remove();
+                if(i<m-1) Q.add(Q.poll());
+                else Q.remove();
             }
         }
 
