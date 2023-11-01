@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class SelectionSort {
     private static int[] solution(int[] arr) {
-        int min, tmp, index;
+        int tmp, index;
 
         for(int i=0; i<arr.length-1; i++) {
-            min = arr[i];
             index = i;
+
             for(int j=i+1; j<arr.length; j++) {
-                if(min > arr[j]) {
-                    min = arr[j];
+                if(arr[i] > arr[j]) {
+                    arr[i] = arr[j];
                     index = j;
                 }
             }
