@@ -6,7 +6,7 @@ public class MusicVideo {
     private static int solution(int m, int[] arr) {
         int size = 0;
 
-        for(int i : arr) size = Math.max(size, arr[i]);
+        for(int i : arr) size = Math.max(size, i);
 
         while (true) {
             int sum = 0;
