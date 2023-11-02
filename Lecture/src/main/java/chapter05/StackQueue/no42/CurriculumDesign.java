@@ -13,8 +13,8 @@ public class CurriculumDesign {
         }
 
         for(char c : str2.toCharArray()) {
+            if(!Q.isEmpty() && Q.peek() == c) Q.remove();
             if(Q.isEmpty()) return "YES";
-            else if(Q.peek() == c ) Q.remove();
         }
 
         return "NO";
