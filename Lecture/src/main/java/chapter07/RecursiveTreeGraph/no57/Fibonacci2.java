@@ -15,7 +15,9 @@ public class Fibonacci2 {
         fibo = new int[n+1];
         fibo[0] = 1;
         fibo[1] = 1;
+
         DFS(n);
+
         for(int i=1; i<=n; i++) System.out.print(fibo[i] + " ");
     }
 }
