@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class PickStable2 {
+public class PickStable_wrongCode {
     public static class Stable {
         public boolean horse = false;
         public int x = 0;

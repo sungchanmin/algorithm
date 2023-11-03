@@ -1,82 +1,38 @@
 package chapter06.SortingSearching.no53;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class PickStable {
-    public static class Stable {
-        public boolean horse = false;
-        public int x = 0;
-        public int distance = 0;
+    private static boolean stableCheck(int[] arr, int distance, int m) {
+        int p = arr[0];
+        m--;
 
-        public Stable(int x) {
-            this.x = x;
+        for(int i=1; i<arr.length; i++) {
+            if(arr[i] - p >= distance) {
+                m--;
+                p = arr[i];
+            }
+            if(m == 0) return true;
         }
+        return false;
     }
     private static int solution(int n, int m, int[] arr) {
-        Arrays.sort(arr);
-        List<Stable> list = new ArrayList<>();
+        int answer = 0;
+        int lt = 1;
+        int rt = arr[n-1];
 
-        for(int i : arr) list.add(new Stable(i));
-
-        list.get(0).horse = true;
-        list.get(list.size() - 1).horse = true;
-        m = m - 2;
-
-        if(m == 0) {
-            return Math.abs(list.get(0).x - list.get(list.size() - 1).x);
+        while(lt <= rt) {
+            int mid = (lt + rt) / 2;
+            if(stableCheck(arr, mid, m)) {
+                answer = mid;
+                lt = mid + 1;
+            } else rt = mid - 1;
         }
 
-        while(m > 0)  {
-
-            for(int i=1; i<list.size() - 1; i++) {
-                Stable s = list.get(i);
-
-                if(!s.horse) {
-                    int next = 1;
-
-                    while (true) {
-                        Stable f = list.get(i + next);
-                        if (f.horse) {
-                            s.distance = Math.abs(s.x - f.x);
-                            break;
-                        } else next++;
-                    }
-
-                    next = 1;
-
-                    while (true) {
-                        Stable f = list.get(i - next);
-                        if (f.horse) {
-                            s.distance = Math.min(s.distance, Math.abs(s.x - f.x));
-                            break;
-                        } else next++;
-                    }
-                }
-            }
-
-            int maxDis = 0;
-            int index = 0;
-
-            for(int i=1; i<list.size() - 1; i++) {
-                Stable s = list.get(i);
-
-                if(!s.horse && s.distance > maxDis) {
-                    index = i;
-                    maxDis = s.distance;
-                }
-            }
-
-            list.get(index).horse = true;
-            m--;
-
-            if(m == 0) return maxDis;
-        }
-
-        return 0;
+        return answer;
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -84,6 +40,8 @@ public class PickStable {
         int[] arr = new int[n];
 
         for(int i=0; i<n; i++) arr[i] = sc.nextInt();
+
+        Arrays.sort(arr);
 
         System.out.println(solution(n, m, arr));
     }
