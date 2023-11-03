@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class BinarySearch {
     private static int solution(int m, int[] arr) {
         Arrays.sort(arr);
-        int a=0, b=arr.length;
+        int a=0, b=arr.length-1;
 
-        while(b - a > 1) {
+        while(a<b) {
             if(m >= arr[(a+b)/2]) a = (a+b)/2;
             else b = (a+b)/2;
         }
