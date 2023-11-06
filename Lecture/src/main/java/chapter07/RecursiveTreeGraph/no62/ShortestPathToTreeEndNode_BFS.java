@@ -41,10 +41,4 @@ public class ShortestPathToTreeEndNode_BFS {
 
         System.out.println(BFS(root));
     }
-
-    public static class ShortestPathToTreeEndNode2 {
-        public static void main(String[] args) {
-
-        }
-    }
 }
