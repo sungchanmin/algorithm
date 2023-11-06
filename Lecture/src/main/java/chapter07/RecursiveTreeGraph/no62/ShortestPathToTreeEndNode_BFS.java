@@ -25,8 +25,8 @@ public class ShortestPathToTreeEndNode_BFS {
             for(int i=0; i<len; i++) {
                 Node n = Q.poll();
                 if(n.lt == null && n.rt == null) return answer;
-                if(n.lt != null) Q.add(n.lt);
-                if(n.rt != null) Q.add(n.rt);
+                Q.add(n.lt);
+                Q.add(n.rt);
             }
             answer++;
         }
