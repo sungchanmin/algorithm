@@ -7,8 +7,7 @@ public class BinaryOutput {
         if(n == 0) return;
 
         DFS(n/2);
-        if(n % 2 == 1) System.out.print(1);
-        else System.out.print(0);
+        System.out.print(n%2);
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
