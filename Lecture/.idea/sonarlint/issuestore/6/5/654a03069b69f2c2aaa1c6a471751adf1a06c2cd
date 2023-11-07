@@ -1,0 +1,13 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8®ÏÖõ²1
+9
+java:S1643"Use a StringBuilder instead.(óÆ°ş8®ÏÖõ²1
+9
+java:S1643"Use a StringBuilder instead.(´’ˆç8®ÏÖõ²1
+9
+java:S1643#"Use a StringBuilder instead.(óÆ°ş8®ÏÖõ²1
+9
+java:S1643%"Use a StringBuilder instead.(Ù§ù°8®ÏÖõ²1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¶˜ßıÿÿÿÿ8¯ÏÖõ²1
+O
+java:S1144"-Remove this unused private "solution" method.(ü“‡ºúÿÿÿÿ8¶Œ×õ²1

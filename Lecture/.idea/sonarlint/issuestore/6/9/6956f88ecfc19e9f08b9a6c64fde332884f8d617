@@ -1,0 +1,5 @@
+
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8õ‹Ë¹1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½˜Äƒ8÷‹Ë¹1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³éÀ¸8Š“Ú¹1

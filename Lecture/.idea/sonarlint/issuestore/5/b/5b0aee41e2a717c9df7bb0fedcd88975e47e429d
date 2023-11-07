@@ -1,0 +1,5 @@
+
+9
+java:S1643"Use a StringBuilder instead.(ì³ñË8æÖ¿û¹1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô³8çÖ¿û¹1
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òáúB8îÖ¿û¹1

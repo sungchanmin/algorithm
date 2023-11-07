@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿöö†ûÿÿÿÿ8æ×Æ¸1
+ƒ
+java:S4165"aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(Ô–»Úüÿÿÿÿ8ì×Æ¸1
+@
+java:S1659"#Declare "index" on a separate line.(çŞèÕ8ô†×¸1
