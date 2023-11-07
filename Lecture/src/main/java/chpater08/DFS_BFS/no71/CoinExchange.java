@@ -9,7 +9,7 @@ public class CoinExchange {
     private static int change;
     private static int BFS(int[] coins) {
         int answer = 0;
-        int maxCoins = Arrays.stream(coins).max().getAsInt();
+        int maxCoin = Arrays.stream(coins).max().getAsInt();
         Queue<Integer> Q = new LinkedList<>();
         Q.add(0);
 
@@ -17,8 +17,8 @@ public class CoinExchange {
             int len = Q.size();
             for(int i=0; i<len; i++) {
                 int sum = Q.poll();
-                if(change - maxCoins > sum) {
-                    Q.add(sum + maxCoins);
+                if(change - maxCoin > sum) {
+                    Q.add(sum + maxCoin);
                 } else {
                     for(int j=0; j<coins.length; j++) {
                         if(sum + coins[j] == change) return ++answer;
