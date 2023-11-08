@@ -36,12 +36,6 @@ public class Tomato {
     private static int solution(int[][] box) {
         int answer = 0;
 
-        for(int i=0; i<box.length; i++){
-            for(int j=0; j<box[0].length; j++) {
-                if(box[i][j] == 1) Q.add(new RipeTomato(i, j));
-            }
-        }
-
         while(!Q.isEmpty()) {
             int len = Q.size();
             for(int i=0; i<len; i++) {
@@ -65,7 +59,11 @@ public class Tomato {
         int[][] box = new int[m][n];
 
         for(int i=0; i<m; i++) {
-            for(int j=0; j<n; j++) box[i][j] = sc.nextInt();
+            for(int j=0; j<n; j++)
+            {
+                box[i][j] = sc.nextInt();
+                if(box[i][j] == 1) Q.add(new RipeTomato(i, j));
+            }
         }
 
         System.out.println(solution(box));
