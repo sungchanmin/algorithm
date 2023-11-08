@@ -7,7 +7,7 @@ public class MazeSearch {
     private static int[][] maze = new int[SIZE][SIZE];
     private static int DFS(int x, int y) {
         if(x == SIZE-1 && y == SIZE-1) return 1;
-        int moveUp=0, moveDown=0, moveLeft=0, moveRight=0;
+        int moveUp=0, moveDown=0, moveRight=0, moveLeft=0;
 
         if(x+1 < SIZE && maze[x+1][y] == 0) {
             maze[x+1][y] = 1;
