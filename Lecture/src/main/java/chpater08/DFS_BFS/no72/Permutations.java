@@ -2,7 +2,7 @@ package chpater08.DFS_BFS.no72;
 
 import java.util.Scanner;
 
-public class SavingPermutations {
+public class Permutations {
     private static int[] ch;
     private static void DFS(int m, int[]arr, String s) {
         for(int i=0; i< arr.length; i++) {
