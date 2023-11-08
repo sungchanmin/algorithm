@@ -7,30 +7,30 @@ public class MazeSearch {
     private static int[][] maze = new int[SIZE][SIZE];
     private static int DFS(int x, int y) {
         if(x == SIZE-1 && y == SIZE-1) return 1;
-        int l=0, r=0, u=0, d=0;
+        int moveUp=0, moveDown=0, moveLeft=0, moveRight=0;
 
-        if(y-1 >=0 && maze[x][y-1] == 0) {
-            maze[x][y-1] = 1;
-            d = DFS(x, y-1);
-            maze[x][y-1] = 0;
-        }
         if(x+1 < SIZE && maze[x+1][y] == 0) {
             maze[x+1][y] = 1;
-            r = DFS(x+1, y);
+            moveDown = DFS(x+1, y);
             maze[x+1][y] = 0;
         }
-        if(y+1 < SIZE && maze[x][y+1] == 0) {
-            maze[x][y+1] = 1;
-            u = DFS(x, y+1);
-            maze[x][y+1] = 0;
+        if(y-1 >=0 && maze[x][y-1] == 0) {
+            maze[x][y-1] = 1;
+            moveRight = DFS(x, y-1);
+            maze[x][y-1] = 0;
         }
         if(x-1 >= 0 && maze[x-1][y] == 0) {
             maze[x-1][y] = 1;
-            l = DFS(x-1, y);
+            moveUp = DFS(x-1, y);
             maze[x-1][y] = 0;
         }
+        if(y+1 < SIZE && maze[x][y+1] == 0) {
+            maze[x][y+1] = 1;
+            moveLeft = DFS(x, y+1);
+            maze[x][y+1] = 0;
+        }
 
-        return l + r + u + d;
+        return moveUp + moveDown + moveRight + moveLeft;
     }
 
     public static void main(String[] args) {
