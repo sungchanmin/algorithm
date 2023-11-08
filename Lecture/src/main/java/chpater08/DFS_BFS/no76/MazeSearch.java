@@ -7,11 +7,11 @@ public class MazeSearch {
     private static int[][] maze = new int[SIZE][SIZE];
     private static int DFS(int x, int y) {
         if(x == SIZE-1 && y == SIZE-1) return 1;
-        int l=0, r=0, b=0, t=0;
+        int l=0, r=0, u=0, d=0;
 
         if(y-1 >=0 && maze[x][y-1] == 0) {
             maze[x][y-1] = 1;
-            b = DFS(x, y-1);
+            d = DFS(x, y-1);
             maze[x][y-1] = 0;
         }
         if(x+1 < SIZE && maze[x+1][y] == 0) {
@@ -21,7 +21,7 @@ public class MazeSearch {
         }
         if(y+1 < SIZE && maze[x][y+1] == 0) {
             maze[x][y+1] = 1;
-            t = DFS(x, y+1);
+            u = DFS(x, y+1);
             maze[x][y+1] = 0;
         }
         if(x-1 >= 0 && maze[x-1][y] == 0) {
@@ -30,7 +30,7 @@ public class MazeSearch {
             maze[x-1][y] = 0;
         }
 
-        return l + r + b + t;
+        return l + r + u + d;
     }
 
     public static void main(String[] args) {
