@@ -62,7 +62,6 @@ public class ShortestPathInMaze {
             }
             answer++;
         }
-
         return -1;
     }
 
