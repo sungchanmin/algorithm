@@ -1,4 +1,4 @@
-package chpater08.DFS_BFS.no74;
+package chapter08.DFS_BFS.no74;
 
 import java.util.Scanner;
 
