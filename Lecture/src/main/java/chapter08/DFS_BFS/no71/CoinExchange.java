@@ -1,4 +1,4 @@
-package chpater08.DFS_BFS.no71;
+package chapter08.DFS_BFS.no71;
 
 import java.util.Arrays;
 import java.util.LinkedList;
