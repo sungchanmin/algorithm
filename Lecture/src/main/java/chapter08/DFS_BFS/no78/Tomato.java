@@ -1,4 +1,4 @@
-package chpater08.DFS_BFS.no78;
+package chapter08.DFS_BFS.no78;
 
 import java.util.LinkedList;
 import java.util.Queue;
