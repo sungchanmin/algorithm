@@ -1,4 +1,4 @@
-package chpater08.DFS_BFS.no69;
+package chapter08.DFS_BFS.no69;
 
 import java.util.*;
 
