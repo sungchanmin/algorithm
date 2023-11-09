@@ -13,7 +13,7 @@ public class IslandCountryIreland_DFS {
         for(int i=0; i<dx.length; i++) {
             int mx = x + dx[i];
             int my = y + dy[i];
-            if(mx >= 0 && mx < size && my >=0 && my < size && world[mx][my] == 1)
+            if(mx>=0 && mx<size && my>=0 && my<size && world[mx][my]==1)
                 DFS(mx, my);
         }
     }
