@@ -1,12 +1,12 @@
 package chapter08.DFS_BFS.no80;
 
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 public class PizzaDeliveryDistance {
     private static int size, maxPizza;
     private static int[][] map;
-    private static int[] dx = {-1, 0, 1, 0}, dy = {0, -1, 0, 1};
     private static List<Point> pizzas = new ArrayList<>();
     private static List<Point> houses = new ArrayList<>();
     private static List<List<Point>> pizzaList = new ArrayList<>();
@@ -25,27 +25,28 @@ public class PizzaDeliveryDistance {
             return;
         }
 
-        for(int i=L; i<pizzas.size(); i++) {
-            pizzaCombi.add(pizzas.get(i));
-            DFS(i+1, new ArrayList<>(pizzaCombi));
-            pizzaCombi.remove(pizzaCombi.size()-1);
-            DFS(i+1, new ArrayList<>(pizzaCombi));
-
-        }
+        DFS(L+1, new ArrayList<>(pizzaCombi));
+        pizzaCombi.add(pizzas.get(L));
+        DFS(L+1, new ArrayList<>(pizzaCombi));
     }
+
     private static int solution() {
-        int answer = 0;
+        int answer = Integer.MAX_VALUE;
         // 1. 전체 피자집에서 maxPizza 개수 만큼의 피자집을 선택하는 경우의 수(DFS)
         DFS(0, new ArrayList<>());
 
-        for(List<Point> l : pizzaList) {
-            for(Point p : l) {
-                System.out.print("(" + p.x + "," + p.y + "), ");
-            }
-            System.out.println();
-        }
         // 2. 각 집과 선택된 피자집과의 거리 합 구하기
-        System.out.println(pizzaList.size());
+        for(List<Point> list : pizzaList) {
+            int sum = 0;
+            for(Point house : houses) {
+                int distance = Integer.MAX_VALUE;
+                for(Point pizza : list) {
+                    distance = Math.min(distance, Math.abs(house.x - pizza.x) + Math.abs(house.y - pizza.y));
+                }
+                sum += distance;
+            }
+            answer = Math.min(answer, sum);
+        }
 
         return answer;
     }
