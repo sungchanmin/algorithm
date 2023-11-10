@@ -29,10 +29,10 @@ public class IslandCountryIreland_BFS {
                 world[island.x][island.y] = 0;
 
                 for(int j=0; j<dx.length; j++) {
-                    int mx = island.x + dx[j];
-                    int my = island.y + dy[j];
-                    if(mx>=0 && mx<size && my>=0 && my<size && world[mx][my]==1)
-                        Q.add(new Point(mx, my));
+                    int nx = island.x + dx[j];
+                    int ny = island.y + dy[j];
+                    if(nx>=0 && nx<size && ny>=0 && ny<size && world[nx][ny]==1)
+                        Q.add(new Point(nx, ny));
                 }
             }
         }
