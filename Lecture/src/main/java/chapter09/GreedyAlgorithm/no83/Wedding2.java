@@ -1,31 +1,45 @@
 package chapter09.GreedyAlgorithm.no83;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class Wedding2 {
-    private static int solution(int[] start, int[] end) {
-        int[] arr = new int[72];
+    private static class Time implements Comparable<Time> {
+        int time;
+        String type;
 
-        for(int i=0; i<start.length; i++) {
-            for(int j=start[i]; j<end[i]; j++) {
-                arr[j]++;
-            }
+        public Time(int time, String type) {
+            this.time = time;
+            this.type = type;
         }
 
-        return Arrays.stream(arr).max().getAsInt();
+        @Override
+        public int compareTo(Time o) {
+            if(this.time == o.time) return this.type.compareTo(o.type) * -1;
+            return this.time - o.time;
+        }
+    }
+    private static int solution(List<Time> list) {
+        int answer = 0;
+        int count = 0;
+        Collections.sort(list);
+        for(Time t : list) {
+            if(t.type.equals("in")) count++;
+            else count--;
+            answer = Math.max(answer, count);
+        }
+
+        return answer;
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int[] start = new int[n];
-        int[] end = new int[n];
+        List<Time> list = new ArrayList<>();
 
         for(int i=0; i<n; i++) {
-            start[i] = sc.nextInt();
-            end[i] = sc.nextInt();
+            list.add(new Time(sc.nextInt(), "in"));
+            list.add(new Time(sc.nextInt(), "out"));
         }
 
-        System.out.println(solution(start, end));
+        System.out.println(solution(list));
     }
 }
