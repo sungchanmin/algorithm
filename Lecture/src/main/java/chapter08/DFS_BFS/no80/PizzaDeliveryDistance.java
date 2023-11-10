@@ -10,6 +10,7 @@ public class PizzaDeliveryDistance {
     private static List<Point> pizzas = new ArrayList<>();
     private static List<Point> houses = new ArrayList<>();
     private static List<List<Point>> pizzaList = new ArrayList<>();
+
     private static class Point {
         int x, y;
 
@@ -18,16 +19,17 @@ public class PizzaDeliveryDistance {
             this.y = y;
         }
     }
+
     private static void DFS(int L, List<Point> pizzaCombi) {
-        if(pizzaCombi.size() > maxPizza) return;
-        if(L == pizzas.size()) {
-            if(pizzaCombi.size() == maxPizza) pizzaList.add(new ArrayList<>(pizzaCombi));
+        if (pizzaCombi.size() > maxPizza) return;
+        if (L == pizzas.size()) {
+            if (pizzaCombi.size() == maxPizza) pizzaList.add(new ArrayList<>(pizzaCombi));
             return;
         }
 
-        DFS(L+1, new ArrayList<>(pizzaCombi));
+        DFS(L + 1, new ArrayList<>(pizzaCombi));
         pizzaCombi.add(pizzas.get(L));
-        DFS(L+1, new ArrayList<>(pizzaCombi));
+        DFS(L + 1, new ArrayList<>(pizzaCombi));
     }
 
     private static int solution() {
@@ -36,11 +38,11 @@ public class PizzaDeliveryDistance {
         DFS(0, new ArrayList<>());
 
         // 2. 각 집과 선택된 피자집과의 거리 합 구하기
-        for(List<Point> list : pizzaList) {
+        for (List<Point> list : pizzaList) {
             int sum = 0;
-            for(Point house : houses) {
+            for (Point house : houses) {
                 int distance = Integer.MAX_VALUE;
-                for(Point pizza : list) {
+                for (Point pizza : list) {
                     distance = Math.min(distance, Math.abs(house.x - pizza.x) + Math.abs(house.y - pizza.y));
                 }
                 sum += distance;
@@ -50,17 +52,18 @@ public class PizzaDeliveryDistance {
 
         return answer;
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         size = sc.nextInt();
         maxPizza = sc.nextInt();
         map = new int[size][size];
 
-        for(int i=0; i<size; i++) {
-            for(int j=0; j<size; j++) {
+        for (int i = 0; i < size; i++) {
+            for (int j = 0; j < size; j++) {
                 map[i][j] = sc.nextInt();
-                if(map[i][j] == 1) houses.add(new Point(i, j));
-                else if(map[i][j] == 2) pizzas.add(new Point(i, j));
+                if (map[i][j] == 1) houses.add(new Point(i, j));
+                else if (map[i][j] == 2) pizzas.add(new Point(i, j));
             }
         }
 
