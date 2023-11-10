@@ -11,10 +11,10 @@ public class IslandCountryIreland_DFS {
         world[x][y] = 0;
 
         for(int i=0; i<dx.length; i++) {
-            int mx = x + dx[i];
-            int my = y + dy[i];
-            if(mx>=0 && mx<size && my>=0 && my<size && world[mx][my]==1)
-                DFS(mx, my);
+            int nx = x + dx[i];
+            int ny = y + dy[i];
+            if(nx>=0 && nx<size && ny>=0 && ny<size && world[nx][ny]==1)
+                DFS(nx, ny);
         }
     }
     private static int solution() {
