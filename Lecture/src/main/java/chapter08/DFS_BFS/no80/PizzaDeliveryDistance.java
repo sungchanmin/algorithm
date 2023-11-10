@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class PizzaDeliveryDistance {
     private static int size, maxPizza;
-    private static int[][] map;
     private static List<Point> pizzas = new ArrayList<>();
     private static List<Point> houses = new ArrayList<>();
     private static List<List<Point>> pizzaList = new ArrayList<>();
@@ -57,13 +56,12 @@ public class PizzaDeliveryDistance {
         Scanner sc = new Scanner(System.in);
         size = sc.nextInt();
         maxPizza = sc.nextInt();
-        map = new int[size][size];
 
         for (int i = 0; i < size; i++) {
             for (int j = 0; j < size; j++) {
-                map[i][j] = sc.nextInt();
-                if (map[i][j] == 1) houses.add(new Point(i, j));
-                else if (map[i][j] == 2) pizzas.add(new Point(i, j));
+                int type = sc.nextInt();
+                if (type == 1) houses.add(new Point(i, j));
+                else if (type == 2) pizzas.add(new Point(i, j));
             }
         }
 
