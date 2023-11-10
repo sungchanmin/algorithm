@@ -13,34 +13,41 @@ public class MaxIncomeSchedule2 {
 
         @Override
         public int compareTo(Lecture o) {
-            if(this.pay == o.pay) return this.day - o.day;
-            return o.pay - this.pay;
+            return o.day - this.day;
         }
     }
-    private static int solution(List<Lecture> list) {
-        int pay = 0;
-        Map<Integer, Integer> schedule = new HashMap<>();
-        Collections.sort(list);
 
-        for(Lecture l : list) {
-            for(int i=l.day; i>0; i--) {
-                if(!schedule.containsKey(i)) {
-                    schedule.put(i, i);
-                    pay += l.pay;
-                    break;
-                }
+    private static int solution(List<Lecture> list, int max) {
+        int pay = 0;
+        Collections.sort(list);
+        PriorityQueue<Integer> pQ = new PriorityQueue<>(Collections.reverseOrder());
+
+        int j = 0;
+        for (int i=max; i>0; i--) {
+            for (; j<list.size(); j++) {
+                Lecture l = list.get(j);
+                if(l.day != i) break;
+                pQ.add(l.pay);
             }
+            if(!pQ.isEmpty()) pay += pQ.poll();
         }
 
         return pay;
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        int max = 0;
         List<Lecture> list = new ArrayList<>();
 
-        for(int i=0; i<n; i++) list.add(new Lecture(sc.nextInt(), sc.nextInt()));
+        for (int i = 0; i < n; i++) {
+            int pay = sc.nextInt();
+            int day = sc.nextInt();
+            max = Math.max(max, day);
+            list.add(new Lecture(pay, day));
+        }
 
-        System.out.println(solution(list));
+        System.out.println(solution(list, max));
     }
 }
