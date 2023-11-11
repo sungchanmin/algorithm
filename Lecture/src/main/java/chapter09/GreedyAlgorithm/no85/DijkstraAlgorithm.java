@@ -36,7 +36,7 @@ public class DijkstraAlgorithm {
         while(!pQ.isEmpty()) {
             Edge now = pQ.poll();
 
-            if(now.cost > dis[now.vet]) continue;
+//            if(now.cost > dis[now.vet]) continue;
 
             for(Edge e : graph.get(now.vet)) {
                 if(dis[e.vet] == -1 || dis[e.vet] > e.cost + now.cost) {
