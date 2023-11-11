@@ -70,4 +70,3 @@ public class Wonderland_Kruskal {
         System.out.println(solution());
     }
 }
-
