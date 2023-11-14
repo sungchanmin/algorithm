@@ -163,5 +163,3 @@ y
 Isrc/main/java/chapter10/DynamicProgramming/no92/BuildingHighestTower.java,c/d/cdd5341dc427ad1b6f73d918ff15a8fa29add8ae
 {
 Ksrc/main/java/chapter10/DynamicProgramming/no93/CoingExchange_Knapsack.java,f/4/f479c21ec5fdc684b58ff6ef7c4b6271c8591450
-y
-Isrc/main/java/chapter10/DynamicProgramming/no94/GetMaxScore_Knapsack.java,1/1/11787cdbcf2a59c507e8c9b63bcd4fd74f318565
