@@ -1,6 +1,8 @@
+package D2;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P1204 {
 
     public static void main(String[] args) {
         // 1204. 최빈수 구하기
