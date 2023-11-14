@@ -1,0 +1,9 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(À†ÏŒıÿÿÿÿ8àü¯ó»1
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(äÀÊ/8áü¯ó»1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øŒõ8áü¯ó»1
+{
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(È¶­üÿÿÿÿ8çü¯ó»1
+c
+java:S1659"ADeclare "vet2" and all following declarations on a separate line.(˜Åù²øÿÿÿÿ8èü¯ó»1
