@@ -1,6 +1,8 @@
+package D2;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P2001 {
 
     public static void main(String[] args) {
         // 2001. 파리 퇴치
