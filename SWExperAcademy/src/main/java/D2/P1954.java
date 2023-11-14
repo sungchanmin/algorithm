@@ -1,6 +1,8 @@
+package D2;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P1954 {
     // 1954. 달팽이 숫자
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
