@@ -1,32 +1,22 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class Solution {
-    // 2007. 패턴 마디의 길이
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int T = Integer.parseInt(sc.nextLine());
+public class Solution{
 
-        for (int test_case = 1; test_case <= T; test_case++) {
-            System.out.println("#" + test_case + " " + solution(sc.nextLine()));
-        }
-    }
+    public static void main(String args[]){
 
-    private static int solution(String str) {
-        String word = "";
-        for(int i=1; i<10; i++) {
-            word = str.substring(0, i);
-            if(wordCheck(str, word)) break;
+        Scanner input = new Scanner(System.in);
+        int a = input.nextInt();
+
+        for(int b=1; b<=a; b++) {
+            float sum = 0;
+            for(int c=1; c<=10; c++) {
+                int d = input.nextInt();
+                sum += d;
+            }
+            System.out.println("#" +a+ " " + String.format("%.1f", sum / 10));
         }
 
-        return word.length();
+
     }
 
-    private static boolean wordCheck(String str, String word) {
-        int len = str.length() - (str.length() % word.length()) - word.length();
-
-        for(int i=word.length(); i<len; i+=word.length()) {
-            if(!word.equals(str.substring(i, i + word.length()))) return false;
-        }
-        return true;
-    }
 }

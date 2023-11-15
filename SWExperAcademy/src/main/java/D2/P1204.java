@@ -3,9 +3,8 @@ package D2;
 import java.util.Scanner;
 
 public class P1204 {
-
+    // 1204. 최빈수 구하기
     public static void main(String[] args) {
-        // 1204. 최빈수 구하기
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
