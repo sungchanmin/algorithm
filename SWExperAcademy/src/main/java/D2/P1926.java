@@ -1,6 +1,8 @@
+package D2;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P1926 {
     // 1926. 간단한 369게임
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
