@@ -1,6 +1,8 @@
+package D2;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P1979 {
     // 1979. 어디에 단어가 들어갈 수 있을까
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
