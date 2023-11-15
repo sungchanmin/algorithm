@@ -1,6 +1,8 @@
+package D2;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P2007 {
     // 2007. 패턴 마디의 길이
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
