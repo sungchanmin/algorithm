@@ -1,6 +1,8 @@
+package D2;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P1974 {
     // 1974. 스도쿠 검증
     private static final int SIZE = 9;
     public static void main(String[] args) {
