@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Solution {
     // 1974. 스도쿠 검증
-    private static final int SIZE = 9;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();

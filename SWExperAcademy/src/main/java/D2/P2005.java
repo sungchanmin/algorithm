@@ -3,7 +3,7 @@ package D2;
 import java.util.Scanner;
 
 public class P2005 {
-    // 1974. 스도쿠 검증
+    // 2005. 파스칼의 삼각형
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
