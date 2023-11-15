@@ -1,6 +1,8 @@
+package D2;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P1928 {
     /**
      * 1928. Base64 Decoder
      * 1. 유니코드 문자열 -> UTF-8 인코딩 -> Base64 인코딩
