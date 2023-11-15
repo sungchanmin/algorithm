@@ -3,9 +3,8 @@ package D2;
 import java.util.Scanner;
 
 public class P2001 {
-
+    // 2001. 파리 퇴치
     public static void main(String[] args) {
-        // 2001. 파리 퇴치
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
 
