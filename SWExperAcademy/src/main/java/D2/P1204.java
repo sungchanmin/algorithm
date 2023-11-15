@@ -19,7 +19,7 @@ public class P1204 {
                 if(arr[j] > arr[index]) index = j;
             }
 
-            System.out.println("#" + m + " " + arr[index]);
+            System.out.println("#" + m + " " + index);
          }
     }
 }
