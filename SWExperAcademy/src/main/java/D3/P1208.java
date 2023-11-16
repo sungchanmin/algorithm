@@ -30,7 +30,7 @@ public class P1208 {
             int max = descQ.poll();
             int min = ascQ.poll();
 
-            if(max - min <= 1) return 1;
+            if(max - min <= 1) return max - min;
 
             descQ.add(max - 1);
             ascQ.add(min + 1);
