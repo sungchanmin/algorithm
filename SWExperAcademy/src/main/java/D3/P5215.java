@@ -3,7 +3,7 @@ package D3;
 import java.util.Scanner;
 
 public class P5215 {
-    // 5215. 햄버거 다이어트
+    // 1215. 회문1
     private static int n, max;
     private static int[] happy, kcal;
 
