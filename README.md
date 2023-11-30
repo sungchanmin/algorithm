@@ -9,26 +9,25 @@ _코딩 테스트 대비와 알고리즘 역량을 갖추기 위한 기록입니
 
 ### 🗂️ Project Structure
 ```bash
-└── Lecture
-    └── src/main/java
+└── Lecture/src/main/java
         ├── chapter01/HandlingString
-        │                └── no01 ~ no12
+        │    └── no01 ~ no12
         ├── chapter02/Array
-        │                └── no13 ~ no24
-        ├── chapter03/TwoPointers, SlidingWindow
-        │                └── no25 ~ no30
-        ├── chapter04/HashMap, TreeSet
-        │                └── no01 ~ no12
-        ├── chapter05/Stack, Queue
-        │                └── no01 ~ no12
-        ├── chapter06/Sorting, Searching
-        │                └── no01 ~ no12
-        ├── chapter07/Recursive, Tree, Graph
-        │                └── no01 ~ no12
-        ├── chapter08/DFS, BFS
-        │                └── no01 ~ no12
+        │    └── no13 ~ no24
+        ├── chapter03/TwoPointers,SlidingWindow
+        │    └── no25 ~ no30
+        ├── chapter04/HashMap,TreeSet
+        │    └── no31 ~ no35
+        ├── chapter05/Stack,Queue
+        │    └── no36 ~ no43
+        ├── chapter06/Sorting,Searching
+        │    └── no44 ~ no53
+        ├── chapter07/Recursive,Tree,Graph
+        │    └── no54 ~ no66
+        ├── chapter08/DFS,BFS
+        │    └── no67 ~ no80
         ├── chapter09/Greedy
-        │                └── no01 ~ no12
+        │    └── no81 ~ no88
         └── chapter10/Dynamic Programig
-                         └── no01 ~ no12
+             └── no89 ~ no94
 ```
