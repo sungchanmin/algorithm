@@ -10,19 +10,24 @@ public class P10828 {
         int n = Integer.parseInt(sc.nextLine());
         Stack stack = new Stack(n);
 
-        for(int i=0; i<n; i++) {
+        for (int i = 0; i < n; i++) {
             String[] strArr = sc.nextLine().split(" ");
 
             switch (strArr[0]) {
-                case "push": stack.push(Integer.parseInt(strArr[1]));
+                case "push":
+                    stack.push(Integer.parseInt(strArr[1]));
                     break;
-                case "pop": sb.append(stack.pop()).append("\n");
+                case "pop":
+                    sb.append(stack.pop()).append("\n");
                     break;
-                case "size": sb.append(stack.size()).append("\n");
+                case "size":
+                    sb.append(stack.size()).append("\n");
                     break;
-                case "empty": sb.append(stack.empty()).append("\n");
+                case "empty":
+                    sb.append(stack.empty()).append("\n");
                     break;
-                case "top": sb.append(stack.top()).append("\n");
+                case "top":
+                    sb.append(stack.top()).append("\n");
                     break;
             }
         }
@@ -44,7 +49,7 @@ public class P10828 {
         }
 
         public Object pop() {
-            if(size == 0) return -1;
+            if (size == 0) return -1;
             size--;
             return stack[size];
         }
