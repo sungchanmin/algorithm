@@ -1,13 +1,13 @@
 # 🧠 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢
 
-### _알고리즘 역량을 키우기_ 🚀
-**✔️ 문제 해결력을 기르자** : 30min ~ 3h 충분히 고민하기  
+### _알고리즘 역량을 키우기_ 
+**✔️ 문제 해결력을 기르자** : 30분 고민하기  
 **✔️ 습관처럼 꾸준히 풀자** : 1일 1문제 이상
 
 <br>
 
 ## 🍕 _인프런 자바(Java) 알고리즘 문제풀이_
-총 94문제 풀이, 과정 수료✌🏻
+총 94문제 풀이, 과정 수료 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers%20Medium-Light%20Skin%20Tone.png" alt="Crossed Fingers Medium-Light Skin Tone" width="25" height="25" />
 <details>
  <summary> 🗂️ Project Sturucture </summary>
         
