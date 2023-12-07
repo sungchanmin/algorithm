@@ -7,7 +7,8 @@
 <br>
 
 ## 🍕 _인프런 자바(Java) 알고리즘 문제풀이_
-총 94문제 풀이, 과정 수료 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers%20Medium-Light%20Skin%20Tone.png" alt="Crossed Fingers Medium-Light Skin Tone" width="25" height="25" />
+총 94문제 풀이, 과정 수료
+height="25" />
 <details>
  <summary> 🗂️ Project Sturucture </summary>
         
