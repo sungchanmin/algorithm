@@ -8,7 +8,6 @@
 
 ## 🍕 _인프런 자바(Java) 알고리즘 문제풀이_
 총 94문제 풀이, 과정 수료
-height="25" />
 <details>
  <summary> 🗂️ Project Sturucture </summary>
         
