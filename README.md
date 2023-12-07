@@ -7,7 +7,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 ## 🍕 _인프런 자바(Java) 알고리즘 문제풀이_
 
 **섹션 1. String(문자열)**  
-`01-01. 문자 찾기` - <code style="color : gray">[💬풀이](https://velog.io/@chanmin/inflearn0101)</code><br>
+`01-01. 문자 찾기` : [풀이](https://velog.io/@chanmin/inflearn0101)  
 `01-02. 대소문자 변환`  
 `01-03. 문장 속 단어(indexOf(), substring())`  
 `01-04. 단어 뒤집기(StringBuilder이용법 또는 직접뒤집기)`  
