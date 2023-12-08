@@ -173,4 +173,16 @@ _총 95문제 풀이, BOJ로 플랫폼 이전_
 
 | 난이도 | 번호 | 　　　　　　　　　　　문제　　　　　　　　　　　　 | 링크 |
 |-----|-----|-----|-----|
-|-----|-----| 01-01. 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
+| D1 | 2029 | 01. 몫과 나머지 출력하기 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2029) |
+| D1 | 2056 | 02. 연원일 달력 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2056) |
+| D2 | 1859 | 03. 백만 장자 프로젝트 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1859) |
+| D2 | 1954 | 04. 달팽이 숫자 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1954) |
+| D2 | 1204 | 05. 최빈수 구하기 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1204) |
+| D2 | 2001 | 06. 파리 퇴치 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2001) |
+| D2 | 1928 | 07. Base64 Decoder | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1928) |
+| D2 | 1926 | 08. 간단한 369게임 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1926) |
+| D2 | 1979 | 09. 어디에 단어가 들어갈 수 있을까 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1979) |
+| D2 | 1974 | 10. 스도쿠 검증 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1974) |
+| D2 | 2005 | 11. 파스칼의 삼각형 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2005) |
+| D2 | 2007 | 12. 패턴 마디의 길이 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2007) |
+
