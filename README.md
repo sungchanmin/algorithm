@@ -10,7 +10,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 01-01. 문자 찾기` | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
+| 01-01. 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
 | 01-02. 대소문자 변환 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |
 | 01-03. 문장 속 단어(`indexOf()`, `substring()`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 01-04. 단어 뒤집기(`StringBuilder`이용법 또는 직접뒤집기) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
