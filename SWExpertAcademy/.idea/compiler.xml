@@ -7,10 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SWExperAcademy" />
+        <module name="SWExpertAcademy" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SWExpertAcademy" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
