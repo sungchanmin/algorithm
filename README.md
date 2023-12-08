@@ -11,17 +11,17 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
 | 01-01. 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
-| 01-02. 대소문자 변환 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |
-| 01-03. 문장 속 단어(`indexOf()`, `substring()`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 01-04. 단어 뒤집기(`StringBuilder`이용법 또는 직접뒤집기) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 01-05. 특정 문자 뒤집기(`toCharArray()`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 01-06. 중복문자제거 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 01-07. 회문문자열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 01-08. 팰린드롬(`replaceAll` 정규식이용) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 01-09. 숫자만 추출 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 01-10. 문자거리 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 01-11. 문자열 압축 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |   
-| 01-12. 암호(`replace()`, `parseInt(string, 2)`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 01-02. 대소문자 변환 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0102) |
+| 01-03. 문장 속 단어(`indexOf()`, `substring()`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0103) |  
+| 01-04. 단어 뒤집기(`StringBuilder`이용법 또는 직접뒤집기) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0104) |  
+| 01-05. 특정 문자 뒤집기(`toCharArray()`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0105) |  
+| 01-06. 중복문자제거 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0106) |  
+| 01-07. 회문문자열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0107) |  
+| 01-08. 팰린드롬(`replaceAll` 정규식이용) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0108) |  
+| 01-09. 숫자만 추출 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0109) |  
+| 01-10. 문자거리 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0110) |  
+| 01-11. 문자열 압축 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0111) |   
+| 01-12. 암호(`replace()`, `parseInt(string, 2)`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0112) |  
 
 **▶︎ 섹션2. Array**  
 
