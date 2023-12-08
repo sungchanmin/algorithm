@@ -169,10 +169,8 @@ _총 95문제 풀이, 과정 수료_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _SW Expert Academy 알고리즘 문제풀이_
 
-_총 95문제 풀이, 과정 수료_
+_총 95문제 풀이, BOJ로 플랫폼 이전_
 
-**▶︎ 섹션 1. String(문자열)**  
-
-| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
-|-----|-----|
-| 01-01. 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
+| 난이도 | 번호 | 　　　　　　　　　　　문제　　　　　　　　　　　　 | 링크 |
+|-----|-----|-----|-----|
+|-----|-----| 01-01. 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
