@@ -164,3 +164,15 @@ _총 95문제 풀이, 과정 수료_
 | 10-04. 가장 높은 탑 쌓기(`LIS` 응용) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn1004) |  
 | 10-05. 동전 교환(`냅색 알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn1005) |  
 | 10-06. 최대 점수 구하기(`냅색 알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn1006) |  
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _SWExpertAcademy 알고리즘 문제풀이_
+
+_총 95문제 풀이, 과정 수료_
+
+**▶︎ 섹션 1. String(문자열)**  
+
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
+|-----|-----|
+| 01-01. 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
