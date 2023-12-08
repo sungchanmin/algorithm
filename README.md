@@ -44,69 +44,68 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 03-01. 두 배열 합치기(`two pointers algorithm`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 03-02. 공통원소구하기(`two pointers algorithm`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 03-03. 최대 매출(`Sliding window`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 03-04. 연속부분수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 03-05. 연속된 자연수의 합(`two pointers`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 03-06. 최대 길이 연속부분수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 03-01. 두 배열 합치기(`two pointers algorithm`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0301) |  
+| 03-02. 공통원소구하기(`two pointers algorithm`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0302) |  
+| 03-03. 최대 매출(`Sliding window`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0303) |  
+| 03-04. 연속부분수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0304) |  
+| 03-05. 연속된 자연수의 합(`two pointers`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0305) |  
+| 03-06. 최대 길이 연속부분수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0306) |  
 
 **▶︎ 섹션 4. HashMap, TreeSet**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 04-01. 학급 회장 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 04-02. 아나그램 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 04-03. 매출액의 종류(`Hash`, `sliding window`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 04-04. 모든 아나그램 찾기(`Hash`, `sliding window`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 04-05. K번째 큰 수 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 04-01. 학급 회장 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0401) |  
+| 04-02. 아나그램 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0402) |  
+| 04-03. 매출액의 종류(`Hash`, `sliding window`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0403) |  
+| 04-04. 모든 아나그램 찾기(`Hash`, `sliding window`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0404) |  
+| 04-05. K번째 큰 수 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0405) |  
 
 **▶︎ 섹션 5. Stack, Queue**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 05-01. 올바른 괄호 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 05-02. 괄호문자제거 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 05-03. 크레인 인형뽑기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 05-04. 후위식 연산(`postfix`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 05-05. 쇠막대기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 05-06. 공주구하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 05-07. 교육과정설계 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 05-08. 응급실 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 05-01. 올바른 괄호 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0501) |  
+| 05-02. 괄호문자제거 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0502) |  
+| 05-03. 크레인 인형뽑기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0503) |  
+| 05-04. 후위식 연산(`postfix`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0504) |  
+| 05-05. 쇠막대기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0505) |  
+| 05-06. 공주구하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0506) |  
+| 05-07. 교육과정설계 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0507) |  
+| 05-08. 응급실 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0508) |  
 
 **▶︎ 섹션 6. Sorting and Searching**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 06-01. 선택정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-02. 버블정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-03. 삽입정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-04. LRU(`캐시`, 카카오 변형) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-05. 중복확인 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-06. 장난꾸러기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-07. 좌표 정렬(`compareTo`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-08. 이분검색 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-09. 뮤직비디오(`결정알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 06-10. 마구간 정하기(`결정알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 06-01. 선택정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0601) |  
+| 06-02. 버블정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0602) |  
+| 06-03. 삽입정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0603) |  
+| 06-04. LRU(`캐시`, 카카오 변형) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0604) |  
+| 06-05. 중복확인 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0605) |  
+| 06-06. 장난꾸러기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0606) |  
+| 06-07. 좌표 정렬(`compareTo`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0607) |  
+| 06-08. 이분검색 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0608) |  
+| 06-09. 뮤직비디오(`결정알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0609) |  
+| 06-10. 마구간 정하기(`결정알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0610) |  
 
 **▶︎ 섹션 7. 재귀, 트리, 그래프(DFS, BFS 기초)**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 07-01. 재귀 함수(`스택 프레임`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-02. 이진수 출력(`재귀`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-03. 팩토리얼 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-04. 피보나치 수열(`재귀`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-05. 이진트리 순회(`DFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-06. 부분집합 구하기(`DFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-07. 이진트리 레벨 탐색(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-08. 송아지 찾기(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-09. 말단 노드까지의 최단 경로(`DFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-10. 말단 노드까지의 최단 경로(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-11. 그래프와 인접 행렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-12. 경로 탐색(`DFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-13. 경로 탐색(`인접 리스트`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 07-14. 그래프 최단 거리(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 07-01. 재귀 함수(`스택 프레임`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0701) |  
+| 07-02. 이진수 출력(`재귀`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0702) |  
+| 07-03. 팩토리얼 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0703) |  
+| 07-04. 피보나치 수열(`재귀`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0704) |  
+| 07-05. 이진트리 순회(`DFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0705) |  
+| 07-06. 부분집합 구하기(`DFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0706) |  
+| 07-07. 이진트리 레벨 탐색(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0707) |  
+| 07-08. 송아지 찾기(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0708) |  
+| 07-09. 말단 노드까지의 최단 경로(`DFS` & `BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0709) |  
+| 07-10. 그래프와 인접 행렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0710) |  
+| 07-11. 경로 탐색(`DFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0711) |  
+| 07-12. 경로 탐색(`인접 리스트`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0712) |  
+| 07-13. 그래프 최단 거리(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0713) |  
 
 **▶︎ 섹션 8. DFS, BFS 활용**  
 
