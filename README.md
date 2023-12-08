@@ -185,5 +185,28 @@ _총 95문제 풀이, BOJ로 플랫폼 이전_
 | D2 | 1974 | 10. 스도쿠 검증 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1974) |
 | D2 | 2005 | 11. 파스칼의 삼각형 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2005) |
 | D2 | 2007 | 12. 패턴 마디의 길이 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2007) |
-| D3 | 206 | 13. View |[나의  코드 💬](SWExpertAcademy/src/main/java/D3/P1206.java) |
+| D3 | 1206 | 13. View | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1206.java) |
+| D3 | 1208 | 14. Flatten | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1208.java) |
+| D3 | 1209 | 15. Sum | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1209.java) |
+| D3 | 1213 | 16. String | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1213.java) |
+| D3 | 1215 | 17. 회문1 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1215.java) |
+| D3 | 1216 | 18. 회문2 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1216.java) |
+| D3 | 1217 | 19. 거듭 제곱 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1217.java) |
+| D3 | 1220 | 20. Magnetic | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1220.java) |
+| D3 | 1225 | 21. 암호생성기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1225.java) |
+| D3 | 1234 | 22. 비밀번호 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1234.java) |
+| D3 | 1240 | 23. 단순 2진 암호코드 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1240.java) |
+| D3 | 1244 | 24. 최대 상금 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1244.java) |
+| D3 | 1289 | 25. 원재의 메모리 복구하기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1289.java) |
+| D3 | 1493 | 26. 수의 새로운 연산 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1493.java) |
+| D3 | 1860 | 27. 진기의 최고급 붕어빵 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1860.java) |
+| D3 | 1873 | 28. 상호의 배틀필드 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1873.java) |
+| D3 | 2805 | 29. 농작물 수확하기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2805.java) |
+| D3 | 2814 | 30. 최장 경로 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2814.java) |
+| D3 | 2817 | 31. 부분 수열의 합 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2817.java) |
+| D3 | 3282 | 32. 0/1 Knapsack | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P3282.java) |
+| D3 | 4615 | 33. 재미있는 오셀로 게임 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P4615.java) |
+| D3 | 5215 | 34. 햄버거 다이어트 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P5215.java) |
+| D3 | 5607 | 35. 조합 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P5607.java) |
+| D3 | 6190 | 36. 정곤이의 단조 증가하는 수 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P6190.java) |
 
