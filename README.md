@@ -27,17 +27,18 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 02-01. 큰 수 출력하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-02. 보이는 학생 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-03. 가위바위보 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-04. 피보나치 수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-05. 소수(`에라토스테네스 체`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-06. 뒤집은 소수 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-07. 점수계산 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-08. 등수구하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-09. 격자판 최대합 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-10. 봉우리 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
-| 02-11. 임시반장정하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 02-01. 큰 수 출력하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0201) |  
+| 02-02. 보이는 학생 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0202) |  
+| 02-03. 가위바위보 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0203) |  
+| 02-04. 피보나치 수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0204) |  
+| 02-05. 소수(`에라토스테네스 체`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0205) |  
+| 02-06. 뒤집은 소수 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0206) |  
+| 02-07. 점수계산 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0207) |  
+| 02-08. 등수구하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0208) |  
+| 02-09. 격자판 최대합 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0209) |  
+| 02-10. 봉우리 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0210) |  
+| 02-11. 임시반장정하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0211) |  
+| 02-12. 멘토링 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0212) |  
 
 **▶︎ 섹션 3. Two pointers, Sliding window**  
 
