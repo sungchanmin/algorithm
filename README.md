@@ -167,7 +167,7 @@ _총 95문제 풀이, 과정 수료_
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _SWExpertAcademy 알고리즘 문제풀이_
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _SW Expert Academy 알고리즘 문제풀이_
 
 _총 95문제 풀이, 과정 수료_
 
