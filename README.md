@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 ## 🍕 _인프런 자바(Java) 알고리즘 문제풀이_
 
-**섹션 1. String(문자열)**  
+**▶︎ 섹션 1. String(문자열)**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -23,7 +23,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 01-11. 문자열 압축 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |   
 | 01-12. 암호(`replace()`, `parseInt(string, 2)`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션2. Array**  
+**▶︎ 섹션2. Array**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -39,7 +39,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 02-10. 봉우리 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 02-11. 임시반장정하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션 3. Two pointers, Sliding window**  
+**▶︎ 섹션 3. Two pointers, Sliding window**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -50,7 +50,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 03-05. 연속된 자연수의 합(`two pointers`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 03-06. 최대 길이 연속부분수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션 4. HashMap, TreeSet**  
+**▶︎ 섹션 4. HashMap, TreeSet**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -60,7 +60,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 04-04. 모든 아나그램 찾기(`Hash`, `sliding window`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 04-05. K번째 큰 수 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션 5. Stack, Queue**  
+**▶︎ 섹션 5. Stack, Queue**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -73,7 +73,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 05-07. 교육과정설계 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 05-08. 응급실 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션 6. Sorting and Searching**  
+**▶︎ 섹션 6. Sorting and Searching**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -88,7 +88,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 06-09. 뮤직비디오(`결정알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 06-10. 마구간 정하기(`결정알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션 7. 재귀, 트리, 그래프(DFS, BFS 기초)**  
+**▶︎ 섹션 7. 재귀, 트리, 그래프(DFS, BFS 기초)**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -107,7 +107,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 07-13. 경로 탐색(`인접 리스트`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 07-14. 그래프 최단 거리(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션 8. DFS, BFS 활용**  
+**▶︎ 섹션 8. DFS, BFS 활용**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -127,7 +127,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 08-14. 섬나라 아일랜드(`BFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 08-15. 피자 배달 거리(`DFS`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션 9. 그리디 알고리즘**  
+**▶︎ 섹션 9. 그리디 알고리즘**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
@@ -140,7 +140,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 | 09-07. 최소 스패닝 트리(`크루스칼 알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 09-08. 최소 스패닝 트리(`프림 알고리즘`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 
-**섹션 10. 동적 계획법**  
+**▶︎ 섹션 10. 동적 계획법**  
 
 | 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
