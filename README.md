@@ -2,9 +2,9 @@
 
 _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_   
 𝑅𝑜𝑚𝑒 𝑖𝑠 𝑛𝑜𝑡 𝑏𝑢𝑖𝑙𝑡 𝑖𝑛 𝑎 𝑑𝑎𝑦.
-<br>
+<br><br>
 
-## 🍕 _Baekjoon Online Judge 알고리즘 문제풀이_
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -14,7 +14,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 <br>
 
-## 🍕 _인프런 자바(Java) 알고리즘 문제풀이_
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _인프런 자바(Java) 알고리즘 문제풀이_
 
 **▶︎ 섹션 1. String(문자열)**  
 
