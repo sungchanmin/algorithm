@@ -36,5 +36,4 @@ public class P1954 {
             System.out.println();
         }
     }
-
 }
