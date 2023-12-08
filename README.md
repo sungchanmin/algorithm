@@ -8,9 +8,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 1. String(문자열)**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 01-01. 문자 찾기 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
+| 01-01. 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
 | 01-02. 대소문자 변환 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |
 | 01-03. 문장 속 단어(indexOf(), substring()) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 01-04. 단어 뒤집기(StringBuilder이용법 또는 직접뒤집기) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -25,9 +25,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션2. Array**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 02-01. 큰 수 출력하기　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 02-01. 큰 수 출력하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 02-02. 보이는 학생 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 02-03. 가위바위보 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 02-04. 피보나치 수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -41,9 +41,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 3. Two pointers, Sliding window**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 03-01. 두 배열 합치기(two pointers algorithm)　　　　　　　　　　　　　　　　　　　　　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 03-01. 두 배열 합치기(two pointers algorithm) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 03-02. 공통원소구하기(two pointers algorithm) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 03-03. 최대 매출(Sliding window) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 03-04. 연속부분수열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -52,9 +52,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 4. HashMap, TreeSet**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 04-01. 학급 회장　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 04-01. 학급 회장 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 04-02. 아나그램 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 04-03. 매출액의 종류(Hash, sliding window) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 04-04. 모든 아나그램 찾기(Hash, sliding window) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -62,9 +62,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 5. Stack, Queue**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 05-01. 올바른 괄호　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 05-01. 올바른 괄호 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 05-02. 괄호문자제거 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 05-03. 크레인 인형뽑기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 05-04. 후위식 연산(postfix) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -75,9 +75,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 6. Sorting and Searching**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 06-01. 선택정렬 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 06-01. 선택정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 06-02. 버블정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 06-03. 삽입정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 06-04. LRU(캐시, 카카오 변형) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -90,9 +90,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 7. 재귀, 트리, 그래프(DFS, BFS 기초)**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 07-01. 재귀 함수(스택 프레임) 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 07-01. 재귀 함수(스택 프레임) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 07-02. 이진수 출력(재귀) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 07-03. 팩토리얼 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 07-04. 피보나치 수열(재귀) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -109,9 +109,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 8. DFS, BFS 활용**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 08-01. 합이 같은 부분집합　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 08-01. 합이 같은 부분집합 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 08-02. 바둑이 승차 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 08-03. 최대 점수 구하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 08-04. 중복 순열 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -129,9 +129,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 9. 그리디 알고리즘**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 09-01. 씨름 선수　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 09-01. 씨름 선수 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 09-02. 회의실 배정 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 09-03. 결혼식 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 09-04. 최대 수입 스케줄 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
@@ -142,9 +142,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 **섹션 10. 동적 계획법**  
 
-| 문제 | 링크 |
+| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
 |-----|-----|
-| 10-01. 계단 오르기　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　| [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
+| 10-01. 계단 오르기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 10-02. 돌다리 건너기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 10-03. 최대 부분 증가 수열(LIS) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
 | 10-04. 가장 높은 탑 쌓기(LIS 응용) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn) |  
