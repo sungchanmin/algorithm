@@ -6,13 +6,21 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록(ing)_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 9문제 풀이, 현재 진행중_
+_총 8문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
-| 　번호　 | 　　　　　　　　　　　　문제　　　　　　　　　　　　　 | 링크 |
-|-----|-----|-----|
-| 10828 | 01. 스택 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10828) |
+| 번호 | 　　구분　　 | 　　　　　　　　　문제 　　　　　　　　　| 링크 |
+|-----|-----|-----|-----|
+| 10828 |`Stack`| 01. 스택 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10828) |
+| 9093 |`String`| 02. 단어 뒤집기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ9093) |
+| 9012 |`Stack`| 03. 괄호 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ9012) |
+| 1874 |`Stack`| 04. 스택 수열 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1874) |
+| 1406 |`LinkedList`| 05. 에디터 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1406A) |
+| 1406 |`Stack`| 05. 에디터 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1406B) |
+| 10845 |`Queue`| 06. 큐 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10845) |
+| 1158 |`Queue`| 07. 요세푸스 문제 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1158) |
+| 10866 |`LinkedList`| 08. 덱(Deque) | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10866) |
 
 <br>
 
@@ -169,10 +177,44 @@ _총 95문제 풀이, 과정 수료_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _SW Expert Academy 알고리즘 문제풀이_
 
-_총 95문제 풀이, 과정 수료_
+_총 36문제 풀이, BOJ로 플랫폼 이전_
 
-**▶︎ 섹션 1. String(문자열)**  
+| 난이도 | 번호 | 　　　　　　　　　　　문제　　　　　　　　　　　　 | 링크 |
+|-----|-----|-----|-----|
+| D1 | 2029 | 01. 몫과 나머지 출력하기 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2029) |
+| D1 | 2056 | 02. 연원일 달력 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2056) |
+| D2 | 1859 | 03. 백만 장자 프로젝트 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1859) |
+| D2 | 1954 | 04. 달팽이 숫자 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1954) |
+| D2 | 1204 | 05. 최빈수 구하기 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1204) |
+| D2 | 2001 | 06. 파리 퇴치 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2001) |
+| D2 | 1928 | 07. Base64 Decoder | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1928) |
+| D2 | 1926 | 08. 간단한 369게임 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1926) |
+| D2 | 1979 | 09. 어디에 단어가 들어갈 수 있을까 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1979) |
+| D2 | 1974 | 10. 스도쿠 검증 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1974) |
+| D2 | 2005 | 11. 파스칼의 삼각형 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2005) |
+| D2 | 2007 | 12. 패턴 마디의 길이 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2007) |
+| D3 | 1206 | 13. View | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1206.java) |
+| D3 | 1208 | 14. Flatten | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1208.java) |
+| D3 | 1209 | 15. Sum | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1209.java) |
+| D3 | 1213 | 16. String | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1213.java) |
+| D3 | 1215 | 17. 회문1 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1215.java) |
+| D3 | 1216 | 18. 회문2 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1216.java) |
+| D3 | 1217 | 19. 거듭 제곱 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1217.java) |
+| D3 | 1220 | 20. Magnetic | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1220.java) |
+| D3 | 1225 | 21. 암호생성기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1225.java) |
+| D3 | 1234 | 22. 비밀번호 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1234.java) |
+| D3 | 1240 | 23. 단순 2진 암호코드 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1240.java) |
+| D3 | 1244 | 24. 최대 상금 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1244.java) |
+| D3 | 1289 | 25. 원재의 메모리 복구하기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1289.java) |
+| D3 | 1493 | 26. 수의 새로운 연산 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1493.java) |
+| D3 | 1860 | 27. 진기의 최고급 붕어빵 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1860.java) |
+| D3 | 1873 | 28. 상호의 배틀필드 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1873.java) |
+| D3 | 2805 | 29. 농작물 수확하기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2805.java) |
+| D3 | 2814 | 30. 최장 경로 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2814.java) |
+| D3 | 2817 | 31. 부분 수열의 합 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2817.java) |
+| D3 | 3282 | 32. 0/1 Knapsack | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P3282.java) |
+| D3 | 4615 | 33. 재미있는 오셀로 게임 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P4615.java) |
+| D3 | 5215 | 34. 햄버거 다이어트 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P5215.java) |
+| D3 | 5607 | 35. 조합 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P5607.java) |
+| D3 | 6190 | 36. 정곤이의 단조 증가하는 수 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P6190.java) |
 
-| 　　　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　　　 | 링크 |
-|-----|-----|
-| 01-01. 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
