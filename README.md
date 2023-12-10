@@ -1,12 +1,12 @@
 # 🧠 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢
 
-_알고리즘 역량을 키우기 위한 꾸준한 노력과 기록(ing)_   
+_알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_   
 𝑅𝑜𝑚𝑒 𝑖𝑠 𝑛𝑜𝑡 𝑏𝑢𝑖𝑙𝑡 𝑖𝑛 𝑎 𝑑𝑎𝑦.
 <br><br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 8문제 풀이, 현재 진행중_
+_총 10문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -21,6 +21,8 @@ _총 8문제 풀이, 현재 진행중_
 | 10845 |`Queue`| 06. 큐 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10845) |
 | 1158 |`Queue`| 07. 요세푸스 문제 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1158) |
 | 10866 |`LinkedList`| 08. 덱(Deque) | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10866) |
+| 17413 |`Stack`| 09. 단어 뒤집기2 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17413) |
+| 10799 |`Stack`| 10. 쇠막대기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10799) |
 
 <br>
 
