@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 10문제 풀이, 현재 진행중_
+_총 12문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -23,6 +23,8 @@ _총 10문제 풀이, 현재 진행중_
 | 10866 |`LinkedList`| 08. 덱(Deque) | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10866) |
 | 17413 |`Stack`| 09. 단어 뒤집기2 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17413) |
 | 10799 |`Stack`| 10. 쇠막대기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10799) |
+| 17298 |`Stack`| 11. 오큰수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17298) |
+| 17299 |`Stack`| 12. 오등큰수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17299) |
 
 <br>
 
