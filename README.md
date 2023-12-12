@@ -32,8 +32,8 @@ _총 14문제 풀이, 현재 진행중_
 | 10820 |`String`| 17. 문자열 분석 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10820) |
 | 2743 |`String`| 18. 단어 길이 재기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ2743) |
 | 11655 |`String`| 19. ROT13 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11655) |
-| 10824 |`Type`| 20. 네 수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10824) |
-| 11656 |`String`| 21. 접미사 배열 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11656) |
+| 11656 |`Type`| 20. 네 수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11656) |
+| 10824 |`String`| 21. 접미사 배열 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10824) |
 
 <br>
 
