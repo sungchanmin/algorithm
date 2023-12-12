@@ -27,7 +27,7 @@ _총 21문제 풀이, 현재 진행중_
 | 17299 |`Stack`| 12. 오등큰수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17299) |
 | 1935 |`Stack`| 13. 후위 표기식2 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1935) |
 | 1918 |`Stack`| 14. 후위 표기식 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1918) |
-| 11656 |`String`| 15. 알파벳 개수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11656) |
+| 10808 |`String`| 15. 알파벳 개수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10808) |
 | 10809 |`String`| 16. 알파벳 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10809) |
 | 10820 |`String`| 17. 문자열 분석 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10820) |
 | 2743 |`String`| 18. 단어 길이 재기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ2743) |
