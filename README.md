@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 14문제 풀이, 현재 진행중_
+_총 21 of 69 문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -27,12 +27,19 @@ _총 14문제 풀이, 현재 진행중_
 | 17299 |`Stack`| 12. 오등큰수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17299) |
 | 1935 |`Stack`| 13. 후위 표기식2 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1935) |
 | 1918 |`Stack`| 14. 후위 표기식 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1918) |
+| 10808 |`String`| 15. 알파벳 개수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10808) |
+| 10809 |`String`| 16. 알파벳 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10809) |
+| 10820 |`String`| 17. 문자열 분석 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10820) |
+| 2743 |`String`| 18. 단어 길이 재기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ2743) |
+| 11655 |`String`| 19. ROT13 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11655) |
+| 10824 |`Type`| 20. 네 수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10824) |
+| 11656 |`String`| 21. 접미사 배열 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11656) |
 
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _인프런 자바(Java) 알고리즘 문제풀이_
 
-_총 95문제 풀이, 과정 수료_
+_총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 1. String(문자열)**  
 
