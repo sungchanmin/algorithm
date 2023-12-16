@@ -2,7 +2,7 @@ package AlgorithmBase1;
 
 import java.io.*;
 
-public class P1934 {
+public class P1934A {
     public static void main(String[] args) throws IOException {
         try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
              BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out))) {
