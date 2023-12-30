@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 21 of 69 문제 풀이, 현재 진행중_
+_총 43 of 69 문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -34,6 +34,32 @@ _총 21 of 69 문제 풀이, 현재 진행중_
 | 11655 |`String`| 19. ROT13 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11655) |
 | 10824 |`Type`| 20. 네 수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10824) |
 | 11656 |`String`| 21. 접미사 배열 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11656) |
+|  |``|22. 나머지 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|23. 최대공약수와 최소공배수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|24. 최소공배수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|25. 최소공배수(유클리드 호제법) | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|26. 최소공배수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|27. 소수 찾기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|28. 소수 찾기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|29. 소수 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|30. 골드바흐의 추측 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|31. 팩토리얼 0의 개수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|32. 조합 0의 개수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|33. GCD 합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|34. 숨바꼭질 6 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|35. 2진수 8진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|36. 8진수 2진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|37. -2진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|38. 골드바흐 파티션 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|39. 진법 변환 2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|40. 진법 변환 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|41. Base Conversion | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|42. 소인수분해 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|43. 1로 만들기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|44. 2xn 타일링 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|45. 2xn 타일링2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|46. 2xn 타일링2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
+|  |``|47. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P.java) |
 
 <br>
 
