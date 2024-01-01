@@ -57,8 +57,8 @@ _총 45 of 69 문제 풀이, 현재 진행중_
 | 11726 |`DP`|41. 2xn 타일링 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11726.java) |
 | 11727 |`DP`|42. 2xn 타일링2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11727.java) |
 | 9035 |`DP`|43. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
-| 11052|`DP`|44. 카드 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
-| 16194 |`DP`|45. 카드 구하기2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
+| 11052|`DP`|44. 카드 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11052.java) |
+| 16194 |`DP`|45. 카드 구하기2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P16194.java) |
 
 <br>
 
