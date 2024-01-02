@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 43 of 69 문제 풀이, 현재 진행중_
+_총 45 of 69 문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -37,26 +37,28 @@ _총 43 of 69 문제 풀이, 현재 진행중_
 | 10430 |`Math`|22. 나머지 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P10430.java) |
 | 2609 |`Math`|23. 최대공약수와 최소공배수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2609.java) |
 | 1934 |`Math`|24. 최소공배수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1934A.java) |
-| 1934 |`Math`|25. 최소공배수(유클리드 호제법) | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1934B.java) |
-| 1978 |`Math`|28. 소수 찾기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1978.java) |
-| 1929 |`Math`|29. 소수 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1929.java) |
-| 6588 |`Math`|30. 골드바흐의 추측 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P6588.java) |
-| 1676 |`Math`|31. 팩토리얼 0의 개수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1676.java) |
-| 2004 |`Math`|32. 조합 0의 개수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2004.java) |
-| 9613 |`Math`|33. GCD 합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9613.java) |
-| 17087 |`Math`|34. 숨바꼭질 6 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P17087.java) |
-| 1373 |`Math`|35. 2진수 8진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1373.java) |
-| 1212 |`Math`|36. 8진수 2진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1212.java) |
-| 2089 |`Math`|37. -2진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2089.java) |
-| 17103 |`Math`|38. 골드바흐 파티션 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P17103.java) |
-| 11005 |`Math`|39. 진법 변환 2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11005.java) |
-| 2745 |`Math`|40. 진법 변환 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2745.java) |
-| 11576 |`Math`|41. Base Conversion | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11576.java) |
-| 11653 |`Math`|42. 소인수분해 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11653.java) |
-| 1463 |`DP`|43. 1로 만들기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1463.java) |
-| 11726 |`DP`|44. 2xn 타일링 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11726.java) |
-| 11727 |`DP`|46. 2xn 타일링2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11727.java) |
-| 9035 |`DP`|47. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
+| 1934 |`Math`|24. 최소공배수(유클리드 호제법) | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1934B.java) |
+| 1978 |`Math`|25. 소수 찾기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1978.java) |
+| 1929 |`Math`|26. 소수 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1929.java) |
+| 6588 |`Math`|27. 골드바흐의 추측 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P6588.java) |
+| 1676 |`Math`|28. 팩토리얼 0의 개수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1676.java) |
+| 2004 |`Math`|29. 조합 0의 개수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2004.java) |
+| 9613 |`Math`|30. GCD 합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9613.java) |
+| 17087 |`Math`|31. 숨바꼭질 6 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P17087.java) |
+| 1373 |`Math`|32. 2진수 8진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1373.java) |
+| 1212 |`Math`|33. 8진수 2진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1212.java) |
+| 2089 |`Math`|34. -2진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2089.java) |
+| 17103 |`Math`|35. 골드바흐 파티션 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P17103.java) |
+| 11005 |`Math`|36. 진법 변환 2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11005.java) |
+| 2745 |`Math`|37. 진법 변환 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2745.java) |
+| 11576 |`Math`|38. Base Conversion | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11576.java) |
+| 11653 |`Math`|39. 소인수분해 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11653.java) |
+| 1463 |`DP`|40. 1로 만들기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1463.java) |
+| 11726 |`DP`|41. 2xn 타일링 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11726.java) |
+| 11727 |`DP`|42. 2xn 타일링2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11727.java) |
+| 9035 |`DP`|43. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
+| 11052|`DP`|44. 카드 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11052.java) |
+| 16194 |`DP`|45. 카드 구하기2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P16194.java) |
 
 <br>
 
