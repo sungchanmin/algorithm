@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 45 of 69 문제 풀이, 현재 진행중_
+_총 51 of 69 문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -59,6 +59,12 @@ _총 45 of 69 문제 풀이, 현재 진행중_
 | 9035 |`DP`|43. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
 | 11052|`DP`|44. 카드 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11052.java) |
 | 16194 |`DP`|45. 카드 구하기2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P16194.java) |
+| 15990 |`DP`|46. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P15990.java) |
+| 10844 |`DP`|47. 쉬운 계단 수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P10844.java) |
+| 2193 |`DP`|48. 이친수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2193.java) |
+| 11053 |`DP`|49. 가장 긴 증가하는 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11053.java) |
+| 14002 |`DP`|50. 가장 긴 증가하는 부분 수열2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P14002.java) |
+| 1912 |`DP`|51. 연속합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1912.java) |
 
 <br>
 
