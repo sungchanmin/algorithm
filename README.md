@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 51 of 69 문제 풀이, 현재 진행중_
+_총 56 of 69 문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -65,6 +65,11 @@ _총 51 of 69 문제 풀이, 현재 진행중_
 | 11053 |`DP`|49. 가장 긴 증가하는 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11053.java) |
 | 14002 |`DP`|50. 가장 긴 증가하는 부분 수열2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P14002.java) |
 | 1912 |`DP`|51. 연속합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1912.java) |
+| 1699 |`DP`|52. 제곱수의 합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1699.java) |
+| 2225 |`DP`|53. 합분해 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
+| 15988 |`DP`|54. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P15988.java) |
+| 1149 |`DP`|55. RGB 거리 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1149.java) |
+| 1309 |`DP`|56. 동물원 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
 
 <br>
 
