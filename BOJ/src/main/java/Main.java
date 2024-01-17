@@ -1,39 +1,28 @@
-import java.io.*;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Scanner sc =  new Scanner(System.in);
-        int n = Integer.parseInt(sc.nextLine());
-        int[] prime = new int[1001];
-        String[] arr = sc.nextLine().split(" ");
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int N = Integer.parseInt(br.readLine());
 
-        getPrime(prime);
-        System.out.println(countPrime(arr, prime));
-    }
+        int[] arr = new int[N];
+        int[] dp = new int[N];
 
-    private static void getPrime(int[] arr) {
-        arr[1] = 1;
+        String[] strArr = br.readLine().split(" ");
 
-        for(int i=2; i<arr.length; i++) {
-            if(arr[i] == 0) {
-                int n = i * 2;
+        for(int i=0; i<N; i++) arr[i] = Integer.parseInt(strArr[i]);
 
-                while(n < arr.length) {
-                    arr[n] = 1;
-                    n += i;
-                }
+        Arrays.fill(dp, 1);
+
+        for(int i=1; i<N; i++) {
+            for(int j=0; j<i; j++) {
+                if(arr[j] > arr[i]) dp[i] = Math.max(dp[i], dp[j] + 1);
             }
         }
-    }
 
-    private static int countPrime(String[] arr, int[] prime) {
-        int cnt = 0;
-
-        for(String s : arr) {
-            if(prime[Integer.parseInt(s)] == 0) cnt++;
-        }
-
-        return cnt;
+        System.out.println(Arrays.stream(dp).max().getAsInt());
     }
 }
