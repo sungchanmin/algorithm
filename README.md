@@ -1,12 +1,12 @@
 # 🧠 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢
 
-_알고리즘 역량을 키우기 위한 꾸준한 노력과 기록_   
+_알고리즘 역량을 키우기 위한 꾸준한 기록_   
 𝑅𝑜𝑚𝑒 𝑖𝑠 𝑛𝑜𝑡 𝑏𝑢𝑖𝑙𝑡 𝑖𝑛 𝑎 𝑑𝑎𝑦.
 <br><br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 56 of 69 문제 풀이, 현재 진행중_
+_총 68 of 68 문제 풀이, 현재 진행중_
 
 **▶︎ 알고리즘 기초 1/2**  
 
@@ -70,6 +70,18 @@ _총 56 of 69 문제 풀이, 현재 진행중_
 | 15988 |`DP`|54. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P15988.java) |
 | 1149 |`DP`|55. RGB 거리 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1149.java) |
 | 1309 |`DP`|56. 동물원 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
+| 11057 |`DP`|57. 오르막 수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11057.java) |
+| 9465 |`DP`|58. 스티커 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9465.java) |
+| 2156 |`DP`|59. 포도주 시식 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2156.java) |
+| 1932 |`DP`|60. 정수 삼각형 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1932.java) |
+| 11055 |`DP`|61. 가장 큰 증가하는 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11055.java) |
+| 11722 |`DP`|62. 가장 긴 감소하는 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11722.java) |
+| 11054 |`DP`|63. 가장 긴 바이토닉 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11054.java) |
+| 13398 |`DP`|64. 연속합 2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P13398.java) |
+| 2133 |`DP`|65. 타일 채우기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2133.java) |
+| 1309 |`DP`|66. 동물원 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
+| 17404 |`DP`|67. RGB거리 2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P17404.java) |
+| 2225 |`DP`|68. 합분해 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
 
 <br>
 
