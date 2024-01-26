@@ -34,54 +34,54 @@ _총 68 of 68 문제 풀이 완료_
 | 11655 |`String`| 19. ROT13 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11655) |
 | 10824 |`Type`| 20. 네 수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10824) |
 | 11656 |`String`| 21. 접미사 배열 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11656) |
-| 10430 |`Math`|22. 나머지 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P10430.java) |
-| 2609 |`Math`|23. 최대공약수와 최소공배수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2609.java) |
-| 1934 |`Math`|24. 최소공배수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1934A.java) |
-| 1934 |`Math`|24. 최소공배수(유클리드 호제법) | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1934B.java) |
-| 1978 |`Math`|25. 소수 찾기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1978.java) |
-| 1929 |`Math`|26. 소수 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1929.java) |
-| 6588 |`Math`|27. 골드바흐의 추측 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P6588.java) |
-| 1676 |`Math`|28. 팩토리얼 0의 개수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1676.java) |
-| 2004 |`Math`|29. 조합 0의 개수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2004.java) |
-| 9613 |`Math`|30. GCD 합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9613.java) |
-| 17087 |`Math`|31. 숨바꼭질 6 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P17087.java) |
-| 1373 |`Math`|32. 2진수 8진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1373.java) |
-| 1212 |`Math`|33. 8진수 2진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1212.java) |
-| 2089 |`Math`|34. -2진수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2089.java) |
-| 17103 |`Math`|35. 골드바흐 파티션 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P17103.java) |
-| 11005 |`Math`|36. 진법 변환 2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11005.java) |
-| 2745 |`Math`|37. 진법 변환 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2745.java) |
-| 11576 |`Math`|38. Base Conversion | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11576.java) |
-| 11653 |`Math`|39. 소인수분해 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11653.java) |
-| 1463 |`DP`|40. 1로 만들기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1463.java) |
-| 11726 |`DP`|41. 2xn 타일링 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11726.java) |
-| 11727 |`DP`|42. 2xn 타일링2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11727.java) |
-| 9035 |`DP`|43. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
-| 11052|`DP`|44. 카드 구하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11052.java) |
-| 16194 |`DP`|45. 카드 구하기2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P16194.java) |
-| 15990 |`DP`|46. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P15990.java) |
-| 10844 |`DP`|47. 쉬운 계단 수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P10844.java) |
-| 2193 |`DP`|48. 이친수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2193.java) |
-| 11053 |`DP`|49. 가장 긴 증가하는 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11053.java) |
-| 14002 |`DP`|50. 가장 긴 증가하는 부분 수열2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P14002.java) |
-| 1912 |`DP`|51. 연속합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1912.java) |
-| 1699 |`DP`|52. 제곱수의 합 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1699.java) |
-| 2225 |`DP`|53. 합분해 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
-| 15988 |`DP`|54. 1, 2, 3 더하기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P15988.java) |
-| 1149 |`DP`|55. RGB 거리 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1149.java) |
-| 1309 |`DP`|56. 동물원 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
-| 11057 |`DP`|57. 오르막 수 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11057.java) |
-| 9465 |`DP`|58. 스티커 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P9465.java) |
-| 2156 |`DP`|59. 포도주 시식 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2156.java) |
-| 1932 |`DP`|60. 정수 삼각형 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1932.java) |
-| 11055 |`DP`|61. 가장 큰 증가하는 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11055.java) |
-| 11722 |`DP`|62. 가장 긴 감소하는 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11722.java) |
-| 11054 |`DP`|63. 가장 긴 바이토닉 부분 수열 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P11054.java) |
-| 13398 |`DP`|64. 연속합 2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P13398.java) |
-| 2133 |`DP`|65. 타일 채우기 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2133.java) |
-| 1309 |`DP`|66. 동물원 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
-| 17404 |`DP`|67. RGB거리 2 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P17404.java) |
-| 2225 |`DP`|68. 합분해 | [나의 코드 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
+| 10430 |`Math`|22. 나머지 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P10430.java) |
+| 2609 |`Math`|23. 최대공약수와 최소공배수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2609.java) |
+| 1934 |`Math`|24. 최소공배수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1934A.java) |
+| 1934 |`Math`|24. 최소공배수(유클리드 호제법) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1934B.java) |
+| 1978 |`Math`|25. 소수 찾기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1978.java) |
+| 1929 |`Math`|26. 소수 구하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1929.java) |
+| 6588 |`Math`|27. 골드바흐의 추측 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P6588.java) |
+| 1676 |`Math`|28. 팩토리얼 0의 개수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1676.java) |
+| 2004 |`Math`|29. 조합 0의 개수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2004.java) |
+| 9613 |`Math`|30. GCD 합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9613.java) |
+| 17087 |`Math`|31. 숨바꼭질 6 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17087.java) |
+| 1373 |`Math`|32. 2진수 8진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1373.java) |
+| 1212 |`Math`|33. 8진수 2진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1212.java) |
+| 2089 |`Math`|34. -2진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2089.java) |
+| 17103 |`Math`|35. 골드바흐 파티션 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17103.java) |
+| 11005 |`Math`|36. 진법 변환 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11005.java) |
+| 2745 |`Math`|37. 진법 변환 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2745.java) |
+| 11576 |`Math`|38. Base Conversion | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11576.java) |
+| 11653 |`Math`|39. 소인수분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11653.java) |
+| 1463 |`DP`|40. 1로 만들기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1463.java) |
+| 11726 |`DP`|41. 2xn 타일링 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11726.java) |
+| 11727 |`DP`|42. 2xn 타일링2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11727.java) |
+| 9035 |`DP`|43. 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
+| 11052|`DP`|44. 카드 구하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11052.java) |
+| 16194 |`DP`|45. 카드 구하기2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P16194.java) |
+| 15990 |`DP`|46. 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P15990.java) |
+| 10844 |`DP`|47. 쉬운 계단 수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P10844.java) |
+| 2193 |`DP`|48. 이친수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2193.java) |
+| 11053 |`DP`|49. 가장 긴 증가하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11053.java) |
+| 14002 |`DP`|50. 가장 긴 증가하는 부분 수열2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P14002.java) |
+| 1912 |`DP`|51. 연속합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1912.java) |
+| 1699 |`DP`|52. 제곱수의 합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1699.java) |
+| 2225 |`DP`|53. 합분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
+| 15988 |`DP`|54. 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P15988.java) |
+| 1149 |`DP`|55. RGB 거리 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1149.java) |
+| 1309 |`DP`|56. 동물원 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
+| 11057 |`DP`|57. 오르막 수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11057.java) |
+| 9465 |`DP`|58. 스티커 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9465.java) |
+| 2156 |`DP`|59. 포도주 시식 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2156.java) |
+| 1932 |`DP`|60. 정수 삼각형 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1932.java) |
+| 11055 |`DP`|61. 가장 큰 증가하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11055.java) |
+| 11722 |`DP`|62. 가장 긴 감소하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11722.java) |
+| 11054 |`DP`|63. 가장 긴 바이토닉 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11054.java) |
+| 13398 |`DP`|64. 연속합 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P13398.java) |
+| 2133 |`DP`|65. 타일 채우기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2133.java) |
+| 1309 |`DP`|66. 동물원 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
+| 17404 |`DP`|67. RGB거리 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17404.java) |
+| 2225 |`DP`|68. 합분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
 
 <br>
 
@@ -254,28 +254,28 @@ _총 36문제 풀이, BOJ로 플랫폼 이전_
 | D2 | 1974 | 10. 스도쿠 검증 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA1974) |
 | D2 | 2005 | 11. 파스칼의 삼각형 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2005) |
 | D2 | 2007 | 12. 패턴 마디의 길이 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2007) |
-| D3 | 1206 | 13. View | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1206.java) |
-| D3 | 1208 | 14. Flatten | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1208.java) |
-| D3 | 1209 | 15. Sum | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1209.java) |
-| D3 | 1213 | 16. String | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1213.java) |
-| D3 | 1215 | 17. 회문1 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1215.java) |
-| D3 | 1216 | 18. 회문2 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1216.java) |
-| D3 | 1217 | 19. 거듭 제곱 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1217.java) |
-| D3 | 1220 | 20. Magnetic | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1220.java) |
-| D3 | 1225 | 21. 암호생성기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1225.java) |
-| D3 | 1234 | 22. 비밀번호 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1234.java) |
-| D3 | 1240 | 23. 단순 2진 암호코드 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1240.java) |
-| D3 | 1244 | 24. 최대 상금 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1244.java) |
-| D3 | 1289 | 25. 원재의 메모리 복구하기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1289.java) |
-| D3 | 1493 | 26. 수의 새로운 연산 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1493.java) |
-| D3 | 1860 | 27. 진기의 최고급 붕어빵 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1860.java) |
-| D3 | 1873 | 28. 상호의 배틀필드 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P1873.java) |
-| D3 | 2805 | 29. 농작물 수확하기 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2805.java) |
-| D3 | 2814 | 30. 최장 경로 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2814.java) |
-| D3 | 2817 | 31. 부분 수열의 합 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P2817.java) |
-| D3 | 3282 | 32. 0/1 Knapsack | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P3282.java) |
-| D3 | 4615 | 33. 재미있는 오셀로 게임 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P4615.java) |
-| D3 | 5215 | 34. 햄버거 다이어트 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P5215.java) |
-| D3 | 5607 | 35. 조합 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P5607.java) |
-| D3 | 6190 | 36. 정곤이의 단조 증가하는 수 | [나의 코드 💬](SWExpertAcademy/src/main/java/D3/P6190.java) |
+| D3 | 1206 | 13. View | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1206.java) |
+| D3 | 1208 | 14. Flatten | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1208.java) |
+| D3 | 1209 | 15. Sum | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1209.java) |
+| D3 | 1213 | 16. String | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1213.java) |
+| D3 | 1215 | 17. 회문1 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1215.java) |
+| D3 | 1216 | 18. 회문2 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1216.java) |
+| D3 | 1217 | 19. 거듭 제곱 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1217.java) |
+| D3 | 1220 | 20. Magnetic | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1220.java) |
+| D3 | 1225 | 21. 암호생성기 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1225.java) |
+| D3 | 1234 | 22. 비밀번호 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1234.java) |
+| D3 | 1240 | 23. 단순 2진 암호코드 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1240.java) |
+| D3 | 1244 | 24. 최대 상금 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1244.java) |
+| D3 | 1289 | 25. 원재의 메모리 복구하기 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1289.java) |
+| D3 | 1493 | 26. 수의 새로운 연산 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1493.java) |
+| D3 | 1860 | 27. 진기의 최고급 붕어빵 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1860.java) |
+| D3 | 1873 | 28. 상호의 배틀필드 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P1873.java) |
+| D3 | 2805 | 29. 농작물 수확하기 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P2805.java) |
+| D3 | 2814 | 30. 최장 경로 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P2814.java) |
+| D3 | 2817 | 31. 부분 수열의 합 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P2817.java) |
+| D3 | 3282 | 32. 0/1 Knapsack | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P3282.java) |
+| D3 | 4615 | 33. 재미있는 오셀로 게임 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P4615.java) |
+| D3 | 5215 | 34. 햄버거 다이어트 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P5215.java) |
+| D3 | 5607 | 35. 조합 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P5607.java) |
+| D3 | 6190 | 36. 정곤이의 단조 증가하는 수 | [나의 풀이 💬](SWExpertAcademy/src/main/java/D3/P6190.java) |
 
