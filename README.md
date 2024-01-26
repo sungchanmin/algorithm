@@ -6,11 +6,17 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-_총 68 of 68 문제 풀이 완료_
+**▶︎ 알고리즘 기초 2/2**  _( 2 of 61 문제 풀이, 진행중 )_
 
-**▶︎ 알고리즘 기초 1/2**  
+| 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　　문제 　　　　　　　　| 링크 |
+|:---:|:---:|-----|-----|:---:|
+| 01 | 2309 | `Brute Force` | 일곱 난쟁이 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ2309) |
+| 02 | 3085 | `Brute Force` | 사탕 게임 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ3085) |
 
-| 번호 | BOJ | 구분 | 　　　　　　　　문제 　　　　　　　　| 링크 |
+
+**▶︎ 알고리즘 기초 1/2**  _( 68 of 68 문제 풀이 )_
+
+| 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　　문제 　　　　　　　　| 링크 |
 |:---:|:---:|-----|-----|:---:|
 | 01 | 10828 | `Stack` | 스택 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10828) |
 | 02 | 9093 | `String` | 단어 뒤집기 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ9093) |
@@ -87,11 +93,11 @@ _총 68 of 68 문제 풀이 완료_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _인프런 자바(Java) 알고리즘 문제풀이_
 
-_총 95 of 95 문제 풀이, 과정 수료_
+_95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 1. String(문자열)**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제 　　　　　　　　　　　　　　| 링크 |
 |:---:|-----|:---:|
 | 01-01 | 문자 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0101) |
 | 01-02 | 대소문자 변환 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0102) |
@@ -108,7 +114,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션2. Array**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제 　　　　　　　　　　　　　　| 링크 |
 |:---:|-----|:---:|
 | 02-01 | 큰 수 출력하기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0201) |  
 | 02-02 | 보이는 학생 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0202) |  
@@ -125,7 +131,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 3. Two pointers, Sliding window**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제 　　　　　　　　　　　　　　| 링크 |
 |:---:|-----|:---:|
 | 03-01 | 두 배열 합치기(`two pointers algorithm`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0301) |  
 | 03-02 | 공통원소구하기(`two pointers algorithm`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0302) |  
@@ -136,7 +142,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 4. HashMap, TreeSet**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제 　　　　　　　　　　　　　　| 링크 |
 |:---:|-----|:---:|
 | 04-01 | 학급 회장 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0401) |  
 | 04-02 | 아나그램 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0402) |  
@@ -146,7 +152,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 5. Stack, Queue**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
 |:---:|-----|:---:|
 | 05-01 | 올바른 괄호 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0501) |  
 | 05-02 | 괄호문자제거 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0502) |  
@@ -159,7 +165,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 6. Sorting and Searching**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
 |:---:|-----|:---:|
 | 06-01 | 선택정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0601) |  
 | 06-02 | 버블정렬 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0602) |  
@@ -174,7 +180,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 7. 재귀, 트리, 그래프(DFS, BFS 기초)**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
 |:---:|-----|:---:|
 | 07-01 | 재귀 함수(`스택 프레임`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0701) |  
 | 07-02 | 이진수 출력(`재귀`) | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0702) |  
@@ -192,7 +198,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 8. DFS, BFS 활용**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
 |:---:|-----|:---:|
 | 08-01 | 합이 같은 부분집합 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0801) |  
 | 08-02 | 바둑이 승차 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0802) |  
@@ -212,7 +218,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 9. 그리디 알고리즘**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
 |:---:|-----|:---:|
 | 09-01 | 씨름 선수 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0901) |  
 | 09-02 | 회의실 배정 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn0902) |  
@@ -225,7 +231,7 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 10. 동적 계획법**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
 |:---:|-----|:---:|
 | 10-01 | 계단 오르기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn1001) |  
 | 10-02 | 돌다리 건너기 | [나의  풀이 💬](https://velog.io/@chanmin/inflearn1002) |  
@@ -238,9 +244,9 @@ _총 95 of 95 문제 풀이, 과정 수료_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _SW Expert Academy 알고리즘 문제풀이_
 
-_총 36문제 풀이, BOJ로 플랫폼 이전_
+_36문제 풀이, BOJ로 플랫폼 이전_
 
-| 번호 | 난이도 | SEA | 　　　　　　　　　문제　　　　　　　　　　 | 링크 |
+| 번호 | 난이도 | SEA | 　　　　　　　　　　문제　　　　　　　　　　　 | 링크 |
 |:---:|:---:|:---:|-----|:---:|
 | 01 | D1 | 2029 | 몫과 나머지 출력하기 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2029) |
 | 02 | D1 | 2056 | 연원일 달력 | [나의  풀이 💬](https://velog.io/@chanmin/SWEA2056) |
