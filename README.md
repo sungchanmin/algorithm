@@ -10,8 +10,8 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 
 | 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　　문제 　　　　　　　　| 링크 |
 |:---:|:---:|-----|-----|:---:|
-| 01 | 2309 | `Brute Force` | 일곱 난쟁이 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ2309) |
-| 02 | 3085 | `Brute Force` | 사탕 게임 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ3085) |
+| 01 | 2309 | `Brute Force` | 일곱 난쟁이 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2309.java) |
+| 02 | 3085 | `Brute Force` | 사탕 게임 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P3085.java) |
 
 
 **▶︎ 알고리즘 기초 1/2**  _( 68 of 68 문제 풀이 )_
