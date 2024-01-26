@@ -10,78 +10,78 @@ _총 68 of 68 문제 풀이 완료_
 
 **▶︎ 알고리즘 기초 1/2**  
 
-| 번호 | 　　구분　　 | 　　　　　　　　문제 　　　　　　　　| 링크 |
-|-----|-----|-----|-----|
-| 10828 |`Stack`| 01. 스택 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10828) |
-| 9093 |`String`| 02. 단어 뒤집기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ9093) |
-| 9012 |`Stack`| 03. 괄호 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ9012) |
-| 1874 |`Stack`| 04. 스택 수열 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1874) |
-| 1406 |`LinkedList`| 05. 에디터 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1406A) |
-| 1406 |`Stack`| 05. 에디터 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1406B) |
-| 10845 |`Queue`| 06. 큐 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10845) |
-| 1158 |`Queue`| 07. 요세푸스 문제 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1158) |
-| 10866 |`LinkedList`| 08. 덱(Deque) | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10866) |
-| 17413 |`Stack`| 09. 단어 뒤집기2 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17413) |
-| 10799 |`Stack`| 10. 쇠막대기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10799) |
-| 17298 |`Stack`| 11. 오큰수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17298) |
-| 17299 |`Stack`| 12. 오등큰수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ17299) |
-| 1935 |`Stack`| 13. 후위 표기식2 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1935) |
-| 1918 |`Stack`| 14. 후위 표기식 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ1918) |
-| 10808 |`String`| 15. 알파벳 개수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10808) |
-| 10809 |`String`| 16. 알파벳 찾기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10809) |
-| 10820 |`String`| 17. 문자열 분석 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10820) |
-| 2743 |`String`| 18. 단어 길이 재기 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ2743) |
-| 11655 |`String`| 19. ROT13 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11655) |
-| 10824 |`Type`| 20. 네 수 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ10824) |
-| 11656 |`String`| 21. 접미사 배열 | [나의  풀이 💬](https://velog.io/@chanmin/BOJ11656) |
-| 10430 |`Math`|22. 나머지 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P10430.java) |
-| 2609 |`Math`|23. 최대공약수와 최소공배수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2609.java) |
-| 1934 |`Math`|24. 최소공배수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1934A.java) |
-| 1934 |`Math`|24. 최소공배수(유클리드 호제법) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1934B.java) |
-| 1978 |`Math`|25. 소수 찾기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1978.java) |
-| 1929 |`Math`|26. 소수 구하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1929.java) |
-| 6588 |`Math`|27. 골드바흐의 추측 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P6588.java) |
-| 1676 |`Math`|28. 팩토리얼 0의 개수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1676.java) |
-| 2004 |`Math`|29. 조합 0의 개수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2004.java) |
-| 9613 |`Math`|30. GCD 합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9613.java) |
-| 17087 |`Math`|31. 숨바꼭질 6 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17087.java) |
-| 1373 |`Math`|32. 2진수 8진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1373.java) |
-| 1212 |`Math`|33. 8진수 2진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1212.java) |
-| 2089 |`Math`|34. -2진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2089.java) |
-| 17103 |`Math`|35. 골드바흐 파티션 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17103.java) |
-| 11005 |`Math`|36. 진법 변환 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11005.java) |
-| 2745 |`Math`|37. 진법 변환 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2745.java) |
-| 11576 |`Math`|38. Base Conversion | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11576.java) |
-| 11653 |`Math`|39. 소인수분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11653.java) |
-| 1463 |`DP`|40. 1로 만들기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1463.java) |
-| 11726 |`DP`|41. 2xn 타일링 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11726.java) |
-| 11727 |`DP`|42. 2xn 타일링2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11727.java) |
-| 9035 |`DP`|43. 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
-| 11052|`DP`|44. 카드 구하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11052.java) |
-| 16194 |`DP`|45. 카드 구하기2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P16194.java) |
-| 15990 |`DP`|46. 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P15990.java) |
-| 10844 |`DP`|47. 쉬운 계단 수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P10844.java) |
-| 2193 |`DP`|48. 이친수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2193.java) |
-| 11053 |`DP`|49. 가장 긴 증가하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11053.java) |
-| 14002 |`DP`|50. 가장 긴 증가하는 부분 수열2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P14002.java) |
-| 1912 |`DP`|51. 연속합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1912.java) |
-| 1699 |`DP`|52. 제곱수의 합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1699.java) |
-| 2225 |`DP`|53. 합분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
-| 15988 |`DP`|54. 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P15988.java) |
-| 1149 |`DP`|55. RGB 거리 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1149.java) |
-| 1309 |`DP`|56. 동물원 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
-| 11057 |`DP`|57. 오르막 수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11057.java) |
-| 9465 |`DP`|58. 스티커 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9465.java) |
-| 2156 |`DP`|59. 포도주 시식 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2156.java) |
-| 1932 |`DP`|60. 정수 삼각형 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1932.java) |
-| 11055 |`DP`|61. 가장 큰 증가하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11055.java) |
-| 11722 |`DP`|62. 가장 긴 감소하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11722.java) |
-| 11054 |`DP`|63. 가장 긴 바이토닉 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11054.java) |
-| 13398 |`DP`|64. 연속합 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P13398.java) |
-| 2133 |`DP`|65. 타일 채우기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2133.java) |
-| 1309 |`DP`|66. 동물원 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
-| 17404 |`DP`|67. RGB거리 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17404.java) |
-| 2225 |`DP`|68. 합분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
+| 번호 | BOJ | 구분 | 　　　　　　　　문제 　　　　　　　　| 링크 |
+|:---:|:---:|----:|-----|:---:|
+| 01 | 10828 | `Stack` | 스택 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10828) |
+| 02 | 9093 | `String` | 단어 뒤집기 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ9093) |
+| 03 | 9012 | `Stack` | 괄호 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ9012) |
+| 04 | 1874 | `Stack` | 스택 수열 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ1874) |
+| 05 | 1406 | `LinkedList` | 에디터 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ1406A) |
+| 05 | 1406 | `Stack` | 에디터 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ1406B) |
+| 06 | 10845 | `Queue` | 큐 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10845) |
+| 07 | 1158 | `Queue` | 요세푸스 문제 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ1158) |
+| 08 | 10866 | `LinkedList` | 덱(Deque) | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10866) |
+| 09 | 17413 | `Stack` | 단어 뒤집기2 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ17413) |
+| 10 | 10799 | `Stack` | 쇠막대기 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10799) |
+| 11 | 17298 | `Stack` | 오큰수 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ17298) |
+| 12 | 17299 | `Stack` | 오등큰수 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ17299) |
+| 13 | 1935 | `Stack` | 후위 표기식2 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ1935) |
+| 14 | 1918 | `Stack` | 후위 표기식 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ1918) |
+| 15 | 10808 | `String` | 알파벳 개수 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10808) |
+| 16 | 10809 | `String` | 알파벳 찾기 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10809) |
+| 17 | 10820 | `String` | 문자열 분석 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10820) |
+| 18 | 2743 | `String` | 단어 길이 재기 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ2743) |
+| 19 | 11655 | `String` | ROT13 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ11655) |
+| 20 | 10824 | `Type` | 네 수 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ10824) |
+| 21 | 11656 | `String` | 접미사 배열 | [나의 풀이 💬](https://velog.io/@chanmin/BOJ11656) |
+| 22 | 10430 | `Math` | 나머지 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P10430.java) |
+| 23 | 2609 | `Math` | 최대공약수와 최소공배수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2609.java) |
+| 24 | 1934 | `Math` | 최소공배수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1934A.java) |
+| 24 | 1934 | `Math` | 최소공배수(유클리드 호제법) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1934B.java) |
+| 25 | 1978 | `Math` | 소수 찾기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1978.java) |
+| 26 | 1929 | `Math` | 소수 구하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1929.java) |
+| 27 | 6588 | `Math` | 골드바흐의 추측 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P6588.java) |
+| 28 | 1676 | `Math` | 팩토리얼 0의 개수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1676.java) |
+| 29 | 2004 | `Math` | 조합 0의 개수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2004.java) |
+| 30 | 9613 | `Math` | GCD 합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9613.java) |
+| 31 | 17087 | `Math` | 숨바꼭질 6 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17087.java) |
+| 32 | 1373 | `Math` | 2진수 8진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1373.java) |
+| 33 | 1212 | `Math` | 8진수 2진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1212.java) |
+| 34 | 2089 | `Math` | -2진수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2089.java) |
+| 35 | 17103 | `Math` | 골드바흐 파티션 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17103.java) |
+| 36 | 11005 | `Math` | 진법 변환 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11005.java) |
+| 37 | 2745 | `Math` | 진법 변환 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2745.java) |
+| 38 | 11576 | `Math` | Base Conversion | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11576.java) |
+| 39 | 11653 | `Math` | 소인수분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11653.java) |
+| 40 | 1463 | `DP` | 1로 만들기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1463.java) |
+| 41 | 11726 | `DP` | 2xn 타일링 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11726.java) |
+| 42 | 11727 | `DP` | 2xn 타일링2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11727.java) |
+| 43 | 9035 | `DP` | 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9035.java) |
+| 44 | 11052 | `DP` | 카드 구하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11052.java) |
+| 45 | 16194 | `DP` | 카드 구하기2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P16194.java) |
+| 46 | 15990 | `DP` | 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P15990.java) |
+| 47 | 10844 | `DP` | 쉬운 계단 수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P10844.java) |
+| 48 | 2193 | `DP` | 이친수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2193.java) |
+| 49 | 11053 | `DP` | 가장 긴 증가하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11053.java) |
+| 50 | 14002 | `DP` | 가장 긴 증가하는 부분 수열2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P14002.java) |
+| 51 | 1912 | `DP` | 연속합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1912.java) |
+| 52 | 1699 | `DP` | 제곱수의 합 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1699.java) |
+| 53 | 2225 | `DP` | 합분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
+| 54 | 15988 | `DP` | 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P15988.java) |
+| 55 | 1149 | `DP` | RGB 거리 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1149.java) |
+| 56 | 1309 | `DP` | 동물원 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
+| 57 | 11057 | `DP` | 오르막 수 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11057.java) |
+| 58 | 9465 | `DP` | 스티커 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P9465.java) |
+| 59 | 2156 | `DP` | 포도주 시식 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2156.java) |
+| 60 | 1932 | `DP` | 정수 삼각형 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1932.java) |
+| 61 | 11055 | `DP` | 가장 큰 증가하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11055.java) |
+| 62 | 11722 | `DP` | 가장 긴 감소하는 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11722.java) |
+| 63 | 11054 | `DP` | 가장 긴 바이토닉 부분 수열 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P11054.java) |
+| 64 | 13398 | `DP` | 연속합 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P13398.java) |
+| 65 | 2133 | `DP` | 타일 채우기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2133.java) |
+| 66 | 1309 | `DP` | 동물원 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P1309.java) |
+| 67 | 17404 | `DP` | RGB거리 2 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P17404.java) |
+| 68 | 2225 |`DP` | 합분해 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase1/P2225.java) |
 
 <br>
 
