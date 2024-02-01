@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class P1748 {
+	// BOJ 1748 수 이어 쓰기 1
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
