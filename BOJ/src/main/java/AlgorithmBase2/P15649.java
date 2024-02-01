@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 
 public class P15649 {
-	//BOJ 1107 리모컨
+	//BOJ 15649 N과 M (1)
 	private static int N, M;
 	private static boolean[] ch;
 	private static StringBuilder sb = new StringBuilder();
