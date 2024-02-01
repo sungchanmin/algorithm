@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class P9095 {
+	// BOJ 9095 1, 2, 3 더하기
 	private static int[] dp = new int[13];
 	
 	public static void main(String[] args) throws IOException {
