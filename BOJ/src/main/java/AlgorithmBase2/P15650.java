@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class P15650 {
+	// BOJ 15650 N과 M (2)
 	private static int N, M;
 	private static boolean[] ch;
 	private static StringBuilder sb = new StringBuilder();
