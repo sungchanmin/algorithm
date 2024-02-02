@@ -12,7 +12,24 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 |:---:|:---:|-----|-----|:---:|
 | 01 | 2309 | `Brute Force` | 일곱 난쟁이 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P2309.java) |
 | 02 | 3085 | `Brute Force` | 사탕 게임 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P3085.java) |
-
+| 03 | 1476 | `Brute Force` | 날짜 계산 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P1476.java) |
+| 04 | 1107 | `Brute Force` | 리모컨 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P1107.java) |
+| 05 | 14500 | `Brute Force` | 테트로미노 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P14500.java) |
+| 06 | 6064 | `Brute Force` | 카잉 달력 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P6064.java) |
+| 07 | 1748 | `Brute Force` | 수 이어 쓰기 1 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P1748.java) |
+| 08 | 9095 | `Brute Force` | 1, 2, 3 더하기 | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P9095.java) |
+| 09 | 15649 | `Brute Force` | N과 M (1) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15649.java) |
+| 10 | 15650 | `Brute Force` | N과 M (2) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15650.java) |
+| 11 | 15651 | `Brute Force` | N과 M (3) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15651.java) |
+| 12 | 15652 | `Brute Force` | N과 M (4) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15652.java) |
+| 13 | 15654 | `Brute Force` | N과 M (5) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15654.java) |
+| 14 | 15655 | `Brute Force` | N과 M (6) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15655.java) |
+| 15 | 15656 | `Brute Force` | N과 M (7) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15656.java) |
+| 16 | 15657 | `Brute Force` | N과 M (8) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15657.java) |
+| 17 | 15663 | `Brute Force` | N과 M (9) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15663.java) |
+| 18 | 15664 | `Brute Force` | N과 M (10) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15664.java) |
+| 19 | 15665 | `Brute Force` | N과 M (11) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15665.java) |
+| 20 | 15666 | `Brute Force` | N과 M (12) | [나의 풀이 💬](BOJ/src/main/java/AlgorithmBase2/P15666.java) |
 
 **▶︎ 알고리즘 기초 1/2**  _( 68 of 68 문제 풀이, 완료 )_
 
