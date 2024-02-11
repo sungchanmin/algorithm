@@ -30,6 +30,14 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 | 18 | 15664 | `Backtracking` | N과 M (10) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P15664.java) |
 | 19 | 15665 | `Backtracking` | N과 M (11) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P15665.java) |
 | 20 | 15666 | `Backtracking` | N과 M (12) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P15666.java) |
+| 21 | 10972 | `Combination` | 다음 순열 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P10972.java) |
+| 22 | 10973 | `Combination` | 이전 순열 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P10973.java) |
+| 23 | 10974 | `Combination` | 모든 순열 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P10974.java) |
+| 24 | 10819 | `Brute Force` | 차이를 최대로 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P10819.java) |
+| 25 | 10971 | `Brute Force` | 외판원 순회 2 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P10971.java) |
+| 26 | 6603 | `Backtracking` | 로또 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P6603.java) |
+| 27 | 9095 | `Combination` | 1, 2, 3 더하기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P9095.java) |
+| 28 | 1759 | `Brute Force` | 암호 만들기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P1759.java) |
 
 **▶︎ 알고리즘 기초 1/2**  _( 68 of 68 문제 풀이, 완료 )_
 
