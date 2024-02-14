@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-**▶︎ 알고리즘 기초 2/2**  _( 28 of 61 문제 풀이, 진행중 )_
+**▶︎ 알고리즘 기초 2/2**  _( 30 of 61 문제 풀이, 진행중 )_
 
 | 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　문제 　　　　　　　| 링크 |
 |:---:|:---:|-----|-----|:---:|
