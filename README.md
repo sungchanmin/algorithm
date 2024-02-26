@@ -6,7 +6,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" /> _Baekjoon Online Judge 알고리즘 문제풀이_
 
-**▶︎ 알고리즘 기초 2/2**  _( 24 of 61 문제 풀이, 진행중 )_
+**▶︎ 알고리즘 기초 2/2**  _( 37 of 61 문제 풀이, 진행중 )_
 
 | 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　문제 　　　　　　　| 링크 |
 |:---:|:---:|-----|-----|:---:|
@@ -38,6 +38,13 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 | 26 | 6603 | `Backtracking` | 로또 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P6603.java) |
 | 27 | 9095 | `Combination` | 1, 2, 3 더하기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P9095.java) |
 | 28 | 1759 | `Brute Force` | 암호 만들기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P1759.java) |
+| 29 | 14501 | `Brute Force` | 퇴사 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14501.java) |
+| 30 | 14889 | `Brute Force` | 스타트와 링크 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14889.java) |
+| 31 | 15661 | `Brute Force` | 링크와 스타트 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P15661.java) |
+| 32 | 2528 | `Brute Force` | 부등호 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P2528.java) |
+| 33 | 1248 | `Brute Force` | Guess | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P1248.java) |
+| 34 | 11723 | `Bit Mask` | 집합 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P11723.java) |
+| 37 | 14391 | `Bit Mask` | 종이 조각 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14391.java) |
 
 **▶︎ 알고리즘 기초 1/2**  _( 68 of 68 문제 풀이, 완료 )_
 
