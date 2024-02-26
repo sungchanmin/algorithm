@@ -25,6 +25,7 @@ public class P1248 {
 
     /**
      * 입력 받은 부호를 2차원 배열에 저장한다.
+     *
      * @param chars +, -, 0 등의 부호 배열
      */
     private static void setSigns(char[] chars) {
@@ -45,6 +46,7 @@ public class P1248 {
 
     /**
      * 백트래킹을 통해 가능한 수열 조합을 찾는다.
+     *
      * @param index 조합하는 수열의 현재 인덱스
      * @return 유효 여부
      */
@@ -65,6 +67,7 @@ public class P1248 {
 
     /**
      * 현재까지의 수열이 유효한지 검사한다.
+     *
      * @param index 조합된 수열의 인덱스 범위
      * @return 유효 여부
      */
@@ -77,8 +80,8 @@ public class P1248 {
                 sum += answer[j];
                 // 부호 배열과 합을 비교하여 유효하지 않으면 false 반환
                 if ((sum > 0 && signs[i][j] != '+') ||
-                    (sum < 0 && signs[i][j] != '-') ||
-                    (sum == 0 && signs[i][j] != '0'))
+                        (sum < 0 && signs[i][j] != '-') ||
+                        (sum == 0 && signs[i][j] != '0'))
                     return false;
             }
         }
