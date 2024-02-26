@@ -3,7 +3,7 @@ package AlgorithmBase2;
 import java.util.Scanner;
 
 public class P14501 {
-	// BOJ 14501 퇴사
+    // BOJ 14501 퇴사
     private static int N;
     private static int answer = 0;
     private static int[] day;
