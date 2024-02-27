@@ -5,8 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class P14889 {
-    // BOJ 14889 스타트와 링크
+public class P14889A {
+    // BOJ 14889 스타트와 링크(brute force)
     private static int N;
     private static int answer = Integer.MAX_VALUE;
     private static int[][] ability;
