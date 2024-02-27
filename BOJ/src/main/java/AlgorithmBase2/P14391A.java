@@ -3,7 +3,7 @@ package AlgorithmBase2;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class P14391 {
+public class P14391A {
     // BOJ 14391 종이 조각
     private static int N, M;
     private static int answer = Integer.MIN_VALUE;
