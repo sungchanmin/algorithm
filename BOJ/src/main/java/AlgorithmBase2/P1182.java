@@ -25,7 +25,7 @@ public class P1182 {
     }
 
     /**
-     * bitmask : 2진 자릿수의 값을 통해 모든 경우의 수를 확인한다.
+     * bitmask : 2진 수의 자릿값을 통해 모든 경우의 수를 확인한다.
      */
     private static void solution() {
         for (int bit = 1; bit < Math.pow(2, N); bit++) {
