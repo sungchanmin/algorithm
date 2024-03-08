@@ -50,6 +50,9 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 | 37 | 14391 | `Bit Mask` | 종이 조각 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14391B.java) |
 | 38 | 13023 | `DFS` | ABCDE | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P13023.java) |
 |  |  | `DFS` |  | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P.java) |
+|  |  | `DFS` |  | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P.java) |
+|  |  | `DFS` |  | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P.java) |
+|  |  | `DFS` |  | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P.java) |
 
 
 **▶︎ 알고리즘 기초 1/2**  _( 68 of 68 문제 풀이, 완료 )_
