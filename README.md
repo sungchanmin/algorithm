@@ -54,7 +54,7 @@ _알고리즘 역량을 키우기 위한 꾸준한 기록_
 | 41 | 1707 | `DFS` | 이분 그래프 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P1707.java) |
 | 42 | 2667 | `DFS` | 단지 번호 붙이기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P2667.java) |
 | 43 | 4963 | `DFS` | 섬의 개수 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P4963.java) |
-| 44 | 2178 | `BFS` | 미로 탐색 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/p2178.java) |
+| 44 | 2178 | `BFS` | 미로 탐색 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P2178.java) |
 
 
 **▶︎ 알고리즘 기초 1/2**  _( 68 of 68 문제 풀이, 완료 )_
