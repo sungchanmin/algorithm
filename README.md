@@ -8,7 +8,7 @@ _알고리즘 역량 키우기_
 
 **▶︎ 알고리즘 기초 2/2** _( 44 of 61 문제 풀이, 진행중 )_
 
-| 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　문제 　　　　　　　| 링크 |
+| 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　문제 　　　　　　　| 풀이 |
 |:---:|:---:|-----|-----|:---:|
 | 01 | 2309 | `Brute Force` | 일곱 난쟁이 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P2309.java) |
 | 02 | 3085 | `Brute Force` | 사탕 게임 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P3085.java) |
@@ -39,13 +39,13 @@ _알고리즘 역량 키우기_
 | 27 | 9095 | `Combination` | 1, 2, 3 더하기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P9095.java) |
 | 28 | 1759 | `Brute Force` | 암호 만들기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P1759.java) |
 | 29 | 14501 | `Brute Force` | 퇴사 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14501.java) |
-| 30 | 14889 | `Brute Force` | 스타트와 링크 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14889A.java) |
-| 31 | 15661 | `Brute Force` | 링크와 스타트 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P15661.java) |
+| 30 | 14889 | `Brute Force` | 스타트와 풀이 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14889A.java) |
+| 31 | 15661 | `Brute Force` | 풀이와 스타트 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P15661.java) |
 | 32 | 2528 | `Brute Force` | 부등호 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P2528.java) |
 | 33 | 1248 | `Brute Force` | Guess | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P1248.java) |
 | 34 | 11723 | `Bit Mask` | 집합 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P11723.java) |
 | 35 | 1182 | `Bit Mask` | 부분수열의 합 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P1182.java) |
-| 36 | 14889 | `Bit Mask` | 스타트와 링크 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14889B.java) |
+| 36 | 14889 | `Bit Mask` | 스타트와 풀이 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14889B.java) |
 | 37 | 14391 | `Brute Force` | 종이 조각 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14391A.java) |
 | 37 | 14391 | `Bit Mask` | 종이 조각 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P14391B.java) |
 | 38 | 13023 | `DFS` | ABCDE | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](BOJ/src/main/java/AlgorithmBase2/P13023.java) |
@@ -59,7 +59,7 @@ _알고리즘 역량 키우기_
 
 **▶︎ 알고리즘 기초 1/2**  _( 68 of 68 문제 풀이, 완료 )_
 
-| 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　문제 　　　　　　　| 링크 |
+| 번호 | 　BOJ　 | 　　구분　　 | 　　　　　　　문제 　　　　　　　| 풀이 |
 |:---:|:---:|-----|-----|:---:|
 | 01 | 10828 | `Stack` | 스택 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/BOJ10828) |
 | 02 | 9093 | `String` | 단어 뒤집기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/BOJ9093) |
@@ -140,7 +140,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 1. String(문자열)**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 문자 찾기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0101) |
 | 02 | 대소문자 변환 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0102) |
@@ -157,7 +157,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션2. Array**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 큰 수 출력하기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0201) |  
 | 02 | 보이는 학생 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0202) |  
@@ -174,7 +174,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 3. Two pointers, Sliding window**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 두 배열 합치기(`two pointers algorithm`) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0301) |  
 | 02 | 공통원소구하기(`two pointers algorithm`) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0302) |  
@@ -185,7 +185,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 4. HashMap, TreeSet**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 학급 회장 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0401) |  
 | 02 | 아나그램 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0402) |  
@@ -195,7 +195,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 5. Stack, Queue**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 올바른 괄호 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0501) |  
 | 02 | 괄호문자제거 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0502) |  
@@ -208,7 +208,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 6. Sorting and Searching**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 선택정렬 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0601) |  
 | 02 | 버블정렬 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0602) |  
@@ -223,7 +223,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 7. 재귀, 트리, 그래프(DFS, BFS 기초)**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 재귀 함수(`스택 프레임`) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0701) |  
 | 02 | 이진수 출력(`재귀`) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0702) |  
@@ -241,7 +241,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 8. DFS, BFS 활용**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 합이 같은 부분집합 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0801) |  
 | 02 | 바둑이 승차 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0802) |  
@@ -261,7 +261,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 9. 그리디 알고리즘**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 씨름 선수 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0901) |  
 | 02 | 회의실 배정 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn0902) |  
@@ -274,7 +274,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 **▶︎ 섹션 10. 동적 계획법**  
 
-| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 링크 |
+| 번호 | 　　　　　　　　　　　　　문제　　　　　　　　　　　　　　 | 풀이 |
 |:---:|-----|:---:|
 | 01 | 계단 오르기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn1001) |  
 | 02 | 돌다리 건너기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/inflearn1002) |  
@@ -289,7 +289,7 @@ _95 of 95 문제 풀이, 과정 수료_
 
 _36문제 풀이, BOJ로 플랫폼 이전_
 
-| 번호 | 난이도 | SEA | 　　　　　　　　　문제　　　　　　　　　　 | 링크 |
+| 번호 | 난이도 | SEA | 　　　　　　　　　문제　　　　　　　　　　 | 풀이 |
 |:---:|:---:|:---:|-----|:---:|
 | 01 | D1 | 2029 | 몫과 나머지 출력하기 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/SWEA2029) |
 | 02 | D1 | 2056 | 연원일 달력 | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" />](https://velog.io/@chanmin/SWEA2056) |
